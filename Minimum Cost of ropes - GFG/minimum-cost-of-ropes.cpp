@@ -8,37 +8,25 @@ class Solution
 {
     public:
     //Function to return the minimum cost of connecting the ropes.
+    
     long long minCost(long long arr[], long long n) {
         // Your code here
+        priority_queue<long long ,vector<long long> ,greater<long long>> pq;
+        for(int i=0;i<n;i++)
+        pq.push(arr[i]);
         
-        priority_queue<long long,vector<long long>,greater<long long>> pq;
-        
-        for(long long i=0;i<n;i++)
-        {
-            pq.push(arr[i]);
-        }
-        
-        long long ans=0;
-        
-        while(pq.size()>1)
-        {
-            long long sum=0;
-            
-            long long t=pq.top();
+        long long int ans=0;
+        while(pq.size()!=1)
+        {   
+            long long temp=0;
+            temp+=pq.top();
             pq.pop();
-            
-            long long t2=pq.top();
+            temp+=pq.top();
             pq.pop();
-            
-            sum=t+t2;
-            
-            ans+=sum;
-            
-            pq.push(sum);
+            pq.push(temp);
+            ans+=temp;
         }
-        
         return ans;
-        
     }
 };
 
