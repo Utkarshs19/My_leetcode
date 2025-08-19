@@ -16,6 +16,7 @@ all the leetcode questions
 ## String
 |  |
 | ------- |
+| [0851-goat-latin](https://github.com/Utkarshs19/My_leetcode/tree/master/0851-goat-latin) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
