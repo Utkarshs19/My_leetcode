@@ -3,6 +3,7 @@ public:
     string findCommonResponse(vector<vector<string>>& responses) {
         
         map<string,int> m;
+        int maxi=0;
 
         for(int i=0;i<responses.size();i++)
         {   
@@ -14,17 +15,13 @@ public:
             for(auto i:s)
             {
                 m[i]++;
+                maxi=max(maxi,m[i]);
             }
         } 
 
 
     
-        int maxi=0;
-
-        for(auto i:m)
-        {
-            maxi=max(maxi,i.second);
-        }
+       
 
         for(auto i:m)
         {
