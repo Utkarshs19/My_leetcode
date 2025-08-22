@@ -24,11 +24,6 @@ public:
                 }
             }
         }
-        cout<<min_x<<"  "<<min_y<<endl;
-        cout<<max_x<<"  "<<max_y;
-
-
-        if(min_x==1001&&(min_y==1001&&(max_x==-1&&max_y==-1)))return 0;
 
         ans=(max_x-min_x+1)*(max_y-min_y+1);
 
