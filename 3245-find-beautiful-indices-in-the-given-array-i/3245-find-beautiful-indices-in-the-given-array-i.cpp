@@ -19,18 +19,7 @@ public:
             v2.push_back(i);
         }
 
-        for(int i=0;i<v1.size();i++)
-        {
-            cout<<v1[i]<<" ";
-        }
-        cout<<endl;
-
-        for(int i=0;i<v2.size();i++)
-        {
-            cout<<v2[i]<<" ";
-        }
-        cout<<endl;
-        
+       
         vector<int> ans;
 
         for(int i=0;i<v1.size();i++)
