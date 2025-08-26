@@ -4,28 +4,26 @@ public:
         
         int area=0;
         double maxi=0.0;
-
-        priority_queue<pair<double,int>> pq;
+        
+        double D=0.0;
 
         for(int i=0;i<d.size();i++)
         {
             double diag=sqrt((d[i][0]*d[i][0])+(d[i][1]*d[i][1]));
             int a=d[i][0]*d[i][1];
 
-            pq.push({diag,a});
-            
-        }
+            cout<<diag<<" "<<a<<endl;
 
-        maxi=pq.top().first;
-
-        while(!pq.empty())
-        {
-            if(pq.top().first==maxi)
-            area=max(area,pq.top().second);
-            else
-            break;
-
-            pq.pop();
+            if(diag>maxi)
+            {
+                maxi=diag;
+                area=a;
+                D=diag;
+            }
+            else if(diag==maxi)
+            {
+                area=max(area,a);
+            }
         }
 
         return area;
