@@ -20,6 +20,7 @@ all the leetcode questions
 | ------- |
 | [0851-goat-latin](https://github.com/Utkarshs19/My_leetcode/tree/master/0851-goat-latin) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Utkarshs19/My_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
@@ -80,4 +81,24 @@ all the leetcode questions
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Two Pointers
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
