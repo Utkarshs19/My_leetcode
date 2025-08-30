@@ -42,6 +42,7 @@ all the leetcode questions
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -64,6 +65,7 @@ all the leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -73,6 +75,7 @@ all the leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
