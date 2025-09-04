@@ -31,6 +31,7 @@ all the leetcode questions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Utkarshs19/My_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 ## Stack
@@ -38,6 +39,7 @@ all the leetcode questions
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +50,7 @@ all the leetcode questions
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Utkarshs19/My_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Utkarshs19/My_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3625-stone-removal-game](https://github.com/Utkarshs19/My_leetcode/tree/master/3625-stone-removal-game) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Array
 |  |
@@ -100,6 +103,7 @@ all the leetcode questions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 ## Counting
