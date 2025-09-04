@@ -11,6 +11,7 @@ all the leetcode questions
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Utkarshs19/My_leetcode/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3830-find-closest-person](https://github.com/Utkarshs19/My_leetcode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
@@ -68,6 +69,7 @@ all the leetcode questions
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -109,6 +111,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +179,9 @@ all the leetcode questions
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
