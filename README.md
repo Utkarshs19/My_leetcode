@@ -19,6 +19,7 @@ all the leetcode questions
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ all the leetcode questions
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -91,6 +93,7 @@ all the leetcode questions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
