@@ -32,7 +32,7 @@ public:
         int ans=0;
         for(auto i:m)
         {
-            cout<<i.first<<"  "<<i.second<<endl;
+
 
             ans+=i.first.length();
         }
