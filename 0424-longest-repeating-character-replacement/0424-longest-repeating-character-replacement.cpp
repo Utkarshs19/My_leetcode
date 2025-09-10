@@ -14,7 +14,7 @@ public:
             m[s[j]]++;
             maxi=max(maxi,m[s[j]]);
 
-            if((j-i+1)-maxi>k)
+            while((j-i+1)-maxi>k)
             {
                 m[s[i]]--;
                 i++;
