@@ -42,6 +42,7 @@ all the leetcode questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -209,6 +210,7 @@ all the leetcode questions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
