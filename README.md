@@ -29,6 +29,7 @@ all the leetcode questions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
@@ -141,6 +142,7 @@ all the leetcode questions
 | ------- |
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
@@ -240,6 +242,7 @@ all the leetcode questions
 ## Design
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
@@ -261,6 +264,7 @@ all the leetcode questions
 ## Trie
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
