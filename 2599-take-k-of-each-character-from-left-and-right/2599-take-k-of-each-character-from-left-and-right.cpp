@@ -24,7 +24,7 @@ public:
         {
             v[s[r]-'a']--;
 
-            while(l<=r && v[0]<k||v[1]<k||v[2]<k)
+            while(l<=r && v[s[r]-'a']<k)
             {
                 v[s[l]-'a']++;
                 l++;
