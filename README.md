@@ -92,6 +92,7 @@ all the leetcode questions
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
+| [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
@@ -254,6 +255,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
+| [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
@@ -286,6 +288,11 @@ all the leetcode questions
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
