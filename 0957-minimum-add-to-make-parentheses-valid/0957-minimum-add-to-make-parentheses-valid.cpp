@@ -10,13 +10,13 @@ public:
         {
             if(s[i]==')'&&!st.empty()&&st.top()=='(')
             st.pop();
-            else if(st.empty()&&s[i]==')')
-            cnt++;
+            else if(s[i]==')')
+            st.push(')');
             else
             st.push('(');
         }
         
 
-        return st.size()+cnt;
+        return st.size();
     }
 };
