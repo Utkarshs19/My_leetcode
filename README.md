@@ -23,6 +23,7 @@ all the leetcode questions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -109,6 +110,7 @@ all the leetcode questions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -165,6 +167,7 @@ all the leetcode questions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Utkarshs19/My_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
@@ -180,6 +183,7 @@ all the leetcode questions
 ## Counting
 |  |
 | ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 ## Sliding Window
@@ -239,6 +243,7 @@ all the leetcode questions
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
