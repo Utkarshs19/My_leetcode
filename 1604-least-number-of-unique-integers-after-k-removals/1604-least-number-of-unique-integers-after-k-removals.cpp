@@ -23,7 +23,6 @@ public:
             p.first=pq.top().first;
             p.second=pq.top().second;
             
-            cout<<p.first<<"  "<<p.second<<endl;
 
             if(p.first<=k){
             k=k-p.first;
