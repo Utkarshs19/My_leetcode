@@ -53,6 +53,7 @@ all the leetcode questions
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/2580-circular-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -122,6 +123,7 @@ all the leetcode questions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
