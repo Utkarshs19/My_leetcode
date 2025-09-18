@@ -17,9 +17,6 @@ public:
 
                 j++;
             }
-            
-            cout<<str.substr(0,j-1)<<endl;
-
             string s="";
 
             for( int k=0;k<j;k++)
@@ -33,9 +30,6 @@ public:
             }
 
             s+=str.substr(j);
-
-            cout<<s<<endl<<endl;
-
             st.insert(s);
         }
         
