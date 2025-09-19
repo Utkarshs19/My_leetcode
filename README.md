@@ -6,6 +6,7 @@ all the leetcode questions
 ## Math
 |  |
 | ------- |
+| [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
