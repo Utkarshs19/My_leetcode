@@ -12,6 +12,7 @@ all the leetcode questions
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Utkarshs19/My_leetcode/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -301,6 +302,7 @@ all the leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
