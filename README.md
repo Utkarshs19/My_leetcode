@@ -139,6 +139,7 @@ all the leetcode questions
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -274,6 +275,7 @@ all the leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
