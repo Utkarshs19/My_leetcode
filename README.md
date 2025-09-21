@@ -60,6 +60,7 @@ all the leetcode questions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Utkarshs19/My_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -91,6 +92,7 @@ all the leetcode questions
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
