@@ -146,6 +146,7 @@ all the leetcode questions
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2012-process-tasks-using-servers](https://github.com/Utkarshs19/My_leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -229,6 +230,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
@@ -290,6 +292,7 @@ all the leetcode questions
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/Utkarshs19/My_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
