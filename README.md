@@ -61,6 +61,7 @@ all the leetcode questions
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -135,6 +136,7 @@ all the leetcode questions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -271,6 +273,7 @@ all the leetcode questions
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
