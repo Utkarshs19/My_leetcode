@@ -1,103 +1,79 @@
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
+        
+        vector<string> v1,v2;
 
         int i=0,j=0;
 
+        string s="";
         version1+='.';
         version2+='.';
 
-        int n1=version1.length();
-        int n2=version2.length();
-
-        string str1="";
-        string str2="";
-
-        int x=0,y=0;
-
-
-
-        if(n1>n2){
-        while(i<n1)
+        while(j<version1.length())
         {
-            if(version1[i]=='.')
+            if(version1[j]=='.')
             {
-                while(j<n2&&version2[j]!='.')
-                {
-                    str2+=version2[j];
-                    j++;
-                }
-
-                if(str2=="")str2="0";
-
-                cout<<"1  ->"<<str1<<"  "<<"2 -->"<<str2<<endl;
-
-                x=0;
-                x=stoi(str1);
-                str1="";
-                i++;
-
-                y=0;
-                y=stoi(str2);
-                str2="";
+                v1.push_back(s);
+                i=j;
                 j++;
-
-                if(x!=y)
-                {
-                    return x<y?-1:1;
-                }
-
+                i++;
+                s="";
             }
             else
             {
-                str1+=version1[i];
-                i++;
+                s+=version1[j];
+                j++;
             }
         }
+        i=0;
+        j=0;
+         while(j<version2.length())
+        {
+            if(version2[j]=='.')
+            {
+                v2.push_back(s);
+                i=j;
+                j++;
+                i++;
+                s="";
+            }
+            else
+            {
+                s+=version2[j];
+                j++;
+            }
+        }
+
+        if(v1.size()<v2.size())
+        {
+            int j=v1.size();
+            while(j<v2.size())
+            {
+                v1.push_back("0");
+                j++;
+            }
         }
         else
         {
-
-            while(j<n2)
-            {   
-            if(version2[j]=='.')
+            int j=v2.size();
+            while(j<v1.size())
             {
-                while(i<n1&&version1[i]!='.')
-                {
-                    str1+=version1[i];
-                    i++;
-                }
-
-                if(str1=="")str1="0";
-
-                cout<<"1  ->"<<str1<<"  "<<"2 -->"<<str2<<endl;
-
-                x=0;
-                x=stoi(str1);
-                str1="";
-                i++;
-
-                y=0;
-                y=stoi(str2);
-                str2="";
-                j++;
-
-                if(x!=y)
-                {
-                    return x<y?-1:1;
-                }
-
-            }
-            else
-            {
-                str2+=version2[j];
+                v2.push_back("0");
                 j++;
             }
         }
 
+
+        for(int i=0;i<v1.size();i++)
+        {
+            if(stoi(v1[i])<stoi(v2[i]))return -1;
+            if(stoi(v1[i])>stoi(v2[i]))return 1;
         }
-        
 
         return 0;
+
+        
+
     }
 };
