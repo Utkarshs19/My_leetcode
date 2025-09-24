@@ -33,6 +33,7 @@ all the leetcode questions
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -75,6 +76,7 @@ all the leetcode questions
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -224,6 +226,7 @@ all the leetcode questions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -242,6 +245,7 @@ all the leetcode questions
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
@@ -261,6 +265,7 @@ all the leetcode questions
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2012-process-tasks-using-servers](https://github.com/Utkarshs19/My_leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
