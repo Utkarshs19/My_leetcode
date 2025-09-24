@@ -61,6 +61,7 @@ all the leetcode questions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Utkarshs19/My_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Utkarshs19/My_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -246,6 +247,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -277,6 +279,7 @@ all the leetcode questions
 | ------- |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
@@ -301,6 +304,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/Utkarshs19/My_leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
