@@ -38,6 +38,7 @@ all the leetcode questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ all the leetcode questions
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@ all the leetcode questions
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -273,6 +276,7 @@ all the leetcode questions
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +342,7 @@ all the leetcode questions
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Tree
 |  |
