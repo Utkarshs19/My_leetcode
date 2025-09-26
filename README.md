@@ -23,6 +23,7 @@ all the leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
@@ -141,6 +142,7 @@ all the leetcode questions
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
@@ -302,6 +304,7 @@ all the leetcode questions
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -314,6 +317,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -351,6 +355,7 @@ all the leetcode questions
 | ------- |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
