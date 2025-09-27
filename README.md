@@ -21,6 +21,7 @@ all the leetcode questions
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3830-find-closest-person](https://github.com/Utkarshs19/My_leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +209,7 @@ all the leetcode questions
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +272,7 @@ all the leetcode questions
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -281,6 +284,7 @@ all the leetcode questions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -430,6 +434,7 @@ all the leetcode questions
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie
 |  |
 | ------- |
