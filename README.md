@@ -148,6 +148,7 @@ all the leetcode questions
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
+| [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
@@ -240,6 +241,7 @@ all the leetcode questions
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
+| [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
