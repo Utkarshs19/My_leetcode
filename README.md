@@ -113,6 +113,7 @@ all the leetcode questions
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -144,6 +145,7 @@ all the leetcode questions
 | [3625-stone-removal-game](https://github.com/Utkarshs19/My_leetcode/tree/master/3625-stone-removal-game) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Array
 |  |
 | ------- |
@@ -214,6 +216,7 @@ all the leetcode questions
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
@@ -285,6 +288,7 @@ all the leetcode questions
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
