@@ -99,6 +99,7 @@ all the leetcode questions
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
