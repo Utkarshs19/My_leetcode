@@ -482,6 +482,7 @@ all the leetcode questions
 ## Tree
 |  |
 | ------- |
+| [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -491,6 +492,7 @@ all the leetcode questions
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Utkarshs19/My_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -501,6 +503,7 @@ all the leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Design
 |  |
