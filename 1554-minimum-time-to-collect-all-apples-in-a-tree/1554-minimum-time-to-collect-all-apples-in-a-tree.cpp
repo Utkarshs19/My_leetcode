@@ -3,24 +3,24 @@ public:
 
 int ans=0;
 
-    void dfs(int cur,map<int,vector<int>> &m ,map<int,int> &m1 , vector<bool> &vis)
+    void dfs(int cur,map<int,vector<int>> &m ,set<int> &s , vector<bool> &vis)
     {
         vis[cur]=true;
 
         for(auto i:m[cur])
         {
-            int size=m1.size();
+            int size=s.size();
             int cnt=0;
 
             if(!vis[i])
             {
                 cnt++;
-                if(m1.find(i)!=m1.end())
-                m1.erase(i);
-                dfs(i,m,m1,vis);
+                if(s.find(i)!=s.end())
+                s.erase(i);
+                dfs(i,m,s,vis);
             }
 
-            if(size !=m1.size())
+            if(size !=s.size())
             ans+=(2*cnt);
         }
 
@@ -38,18 +38,18 @@ int ans=0;
             m[edges[i][1]].push_back(edges[i][0]);
         }
 
-        map<int,int> m1;
+        set<int> s;
 
         for(int i=0;i<hasApple.size();i++)
         {
             if(hasApple[i]==true)
-            m1[i]++;
+            s.insert(i);
         }
 
         vector<bool> vis(n,false);
 
 
-        dfs(0,m,m1,vis);
+        dfs(0,m,s,vis);
 
         return ans;
         
