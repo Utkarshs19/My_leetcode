@@ -40,6 +40,7 @@ all the leetcode questions
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -211,6 +212,7 @@ all the leetcode questions
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1751-slowest-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1751-slowest-key) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -320,6 +322,7 @@ all the leetcode questions
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
@@ -381,6 +384,7 @@ all the leetcode questions
 | ------- |
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -417,6 +421,7 @@ all the leetcode questions
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
+| [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
