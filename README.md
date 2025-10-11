@@ -112,6 +112,7 @@ all the leetcode questions
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Utkarshs19/My_leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
@@ -234,6 +235,7 @@ all the leetcode questions
 | [2012-process-tasks-using-servers](https://github.com/Utkarshs19/My_leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
