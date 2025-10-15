@@ -714,4 +714,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Utkarshs19/My_leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
