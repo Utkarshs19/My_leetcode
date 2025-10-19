@@ -62,6 +62,7 @@ all the leetcode questions
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Utkarshs19/My_leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -139,6 +140,7 @@ all the leetcode questions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Utkarshs19/My_leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3207-make-three-strings-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3207-make-three-strings-equal) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
