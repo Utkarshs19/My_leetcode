@@ -298,6 +298,7 @@ all the leetcode questions
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
@@ -438,6 +439,7 @@ all the leetcode questions
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
@@ -489,6 +491,7 @@ all the leetcode questions
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
@@ -522,6 +525,7 @@ all the leetcode questions
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Utkarshs19/My_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -550,6 +554,7 @@ all the leetcode questions
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
