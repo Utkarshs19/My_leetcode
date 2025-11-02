@@ -318,6 +318,7 @@ all the leetcode questions
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -348,6 +349,7 @@ all the leetcode questions
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
 | ------- |
@@ -365,6 +367,7 @@ all the leetcode questions
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
