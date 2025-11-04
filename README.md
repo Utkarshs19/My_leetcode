@@ -315,6 +315,7 @@ all the leetcode questions
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -429,6 +430,7 @@ all the leetcode questions
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
@@ -466,6 +468,7 @@ all the leetcode questions
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -485,6 +488,7 @@ all the leetcode questions
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
