@@ -185,6 +185,7 @@ all the leetcode questions
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
@@ -297,6 +298,7 @@ all the leetcode questions
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
+| [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -697,6 +699,7 @@ all the leetcode questions
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
 ## Queue
 |  |
 | ------- |
