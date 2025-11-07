@@ -305,6 +305,7 @@ all the leetcode questions
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
