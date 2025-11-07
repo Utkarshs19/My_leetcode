@@ -71,6 +71,7 @@ all the leetcode questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Utkarshs19/My_leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -305,6 +306,7 @@ all the leetcode questions
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
