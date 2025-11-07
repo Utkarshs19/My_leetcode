@@ -70,6 +70,7 @@ all the leetcode questions
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Utkarshs19/My_leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -299,6 +300,7 @@ all the leetcode questions
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
+| [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -592,6 +594,7 @@ all the leetcode questions
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
