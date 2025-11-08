@@ -28,6 +28,7 @@ all the leetcode questions
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
+| [3567-convert-date-to-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -166,6 +167,7 @@ all the leetcode questions
 | [3540-hash-divided-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Utkarshs19/My_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3567-convert-date-to-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-convert-date-to-binary) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3617-find-the-original-typed-string-i) |
