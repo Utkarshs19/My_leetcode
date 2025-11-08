@@ -334,6 +334,7 @@ all the leetcode questions
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -491,6 +492,7 @@ all the leetcode questions
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
@@ -579,6 +581,7 @@ all the leetcode questions
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Utkarshs19/My_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sorting
 |  |
