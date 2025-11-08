@@ -300,6 +300,7 @@ all the leetcode questions
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2838-sum-of-matrix-after-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
@@ -378,6 +379,7 @@ all the leetcode questions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -432,6 +434,7 @@ all the leetcode questions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2838-sum-of-matrix-after-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
