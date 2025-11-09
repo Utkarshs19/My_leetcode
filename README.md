@@ -329,6 +329,7 @@ all the leetcode questions
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -699,6 +700,7 @@ all the leetcode questions
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
