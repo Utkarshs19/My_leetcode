@@ -161,6 +161,7 @@ all the leetcode questions
 | [3207-make-three-strings-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3207-make-three-strings-equal) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Utkarshs19/My_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Utkarshs19/My_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -322,6 +323,7 @@ all the leetcode questions
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Utkarshs19/My_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Utkarshs19/My_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -452,6 +454,7 @@ all the leetcode questions
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Utkarshs19/My_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -726,6 +729,7 @@ all the leetcode questions
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Utkarshs19/My_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Monotonic Stack
 |  |
