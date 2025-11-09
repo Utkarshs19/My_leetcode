@@ -4,17 +4,17 @@ public:
 
 
         int ans=0;
-        map<int,int> m;
+        
 
         for(int i=0;i<nums.size();i++)
         {   
-            m[target]=0;
+            int cnt=0;
             for(int j=i;j<nums.size();j++)
             {
                 if(target==nums[j])
-                m[target]++;
+                cnt++;
 
-                if(m[target]>(j-i+1)/2)
+                if(cnt>(j-i+1)/2)
                 ans++;
             }
         }
