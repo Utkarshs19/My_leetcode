@@ -113,6 +113,7 @@ all the leetcode questions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
@@ -265,6 +266,7 @@ all the leetcode questions
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
@@ -442,6 +444,7 @@ all the leetcode questions
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
