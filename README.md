@@ -12,6 +12,7 @@ all the leetcode questions
 | [0738-monotone-increasing-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0830-largest-triangle-area](https://github.com/Utkarshs19/My_leetcode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-stone-game) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1289-day-of-the-week](https://github.com/Utkarshs19/My_leetcode/tree/master/1289-day-of-the-week) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -260,6 +261,7 @@ all the leetcode questions
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-stone-game) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -438,6 +440,7 @@ all the leetcode questions
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
@@ -502,6 +505,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
@@ -740,6 +744,7 @@ all the leetcode questions
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
