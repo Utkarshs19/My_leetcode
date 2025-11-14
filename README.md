@@ -30,6 +30,7 @@ all the leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -79,6 +80,7 @@ all the leetcode questions
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Utkarshs19/My_leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
