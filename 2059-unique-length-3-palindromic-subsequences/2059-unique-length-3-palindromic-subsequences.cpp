@@ -28,7 +28,7 @@ public:
                         str+=s[v[v.size()-1]];
 
                         st.insert(str);
-                        cout<<str<<endl;
+                        // cout<<str<<endl;
                         str="";
                         str=s[v[0]];
                     }
