@@ -280,6 +280,7 @@ all the leetcode questions
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -757,6 +758,7 @@ all the leetcode questions
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0899-binary-gap](https://github.com/Utkarshs19/My_leetcode/tree/master/0899-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
