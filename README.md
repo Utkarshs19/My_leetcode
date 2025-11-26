@@ -290,6 +290,7 @@ all the leetcode questions
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Utkarshs19/My_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Utkarshs19/My_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -473,6 +474,7 @@ all the leetcode questions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Utkarshs19/My_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Utkarshs19/My_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -678,6 +680,7 @@ all the leetcode questions
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Utkarshs19/My_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -872,6 +875,7 @@ all the leetcode questions
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -887,6 +891,7 @@ all the leetcode questions
 ## Graph
 |  |
 | ------- |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Game Theory
 |  |
