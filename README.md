@@ -31,6 +31,7 @@ all the leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
@@ -335,6 +336,7 @@ all the leetcode questions
 | [2378-sender-with-largest-word-count](https://github.com/Utkarshs19/My_leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
@@ -714,6 +716,7 @@ all the leetcode questions
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -731,6 +734,7 @@ all the leetcode questions
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -778,6 +782,7 @@ all the leetcode questions
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
