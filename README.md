@@ -160,6 +160,7 @@ all the leetcode questions
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -212,6 +213,7 @@ all the leetcode questions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -231,6 +233,7 @@ all the leetcode questions
 | [1642-water-bottles](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
