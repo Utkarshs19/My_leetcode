@@ -26,6 +26,7 @@ all the leetcode questions
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -165,6 +166,7 @@ all the leetcode questions
 | [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -574,6 +576,7 @@ all the leetcode questions
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
