@@ -148,6 +148,7 @@ all the leetcode questions
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Utkarshs19/My_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1652-minimum-suffix-flips](https://github.com/Utkarshs19/My_leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -501,6 +502,7 @@ all the leetcode questions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -557,6 +559,7 @@ all the leetcode questions
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -710,6 +713,7 @@ all the leetcode questions
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
