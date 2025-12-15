@@ -24,6 +24,7 @@ all the leetcode questions
 | [1642-water-bottles](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-water-bottles) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -336,6 +337,7 @@ all the leetcode questions
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -435,6 +437,7 @@ all the leetcode questions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
