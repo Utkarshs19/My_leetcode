@@ -304,6 +304,7 @@ all the leetcode questions
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1206-corporate-flight-bookings](https://github.com/Utkarshs19/My_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
@@ -719,6 +720,7 @@ all the leetcode questions
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
