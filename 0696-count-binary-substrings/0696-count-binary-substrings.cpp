@@ -2,24 +2,20 @@ class Solution {
 public:
     int countBinarySubstrings(string s) {
 
-        vector<int> v;
-        int cnt=0;
+        int cur=1,pre=0,ans=0;
+
         for(int i=1;i<s.length();i++)
         {
-            if(s[i-1]==s[i])cnt++;
+            if(s[i]==s[i-1])cur++;
             else
             {
-                v.push_back(cnt+1);
-                cnt=0;
+                ans+=min(cur,pre);
+                pre=cur;
+                cur=1;
             }
         }
-        v.push_back(cnt+1);
 
-        int ans=0;
-        for(int i=1;i<v.size();i++)
-        {
-            ans=ans+min(v[i],v[i-1]);
-        }
+        ans+=min(cur,pre);
 
         return ans;
         
