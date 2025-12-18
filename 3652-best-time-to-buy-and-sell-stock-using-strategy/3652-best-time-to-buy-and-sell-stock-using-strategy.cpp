@@ -37,8 +37,6 @@ public:
 
          ans = max(ans, x);
     }
-
-
         return ans;
     }
 };
