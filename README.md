@@ -291,6 +291,7 @@ all the leetcode questions
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/Utkarshs19/My_leetcode/tree/master/0830-largest-triangle-area) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Utkarshs19/My_leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
