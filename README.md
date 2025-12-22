@@ -304,6 +304,7 @@ all the leetcode questions
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -472,6 +473,7 @@ all the leetcode questions
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1314-matrix-block-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1314-matrix-block-sum) |
@@ -955,6 +957,7 @@ all the leetcode questions
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
