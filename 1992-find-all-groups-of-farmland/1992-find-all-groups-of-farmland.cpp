@@ -2,10 +2,12 @@ class Solution {
 public:
     vector<pair<int,int>> v;
     int n,m;
+    int x,y;
     void dfs(int i,int j,vector<vector<int>> &land,vector<vector<int>> &vis)
         {
             vis[i][j]=1;
-            v.push_back({i,j});
+            x=max(x,i);
+            y=max(y,j);
 
             if(i-1>=0 && vis[i-1][j]==-1 && land[i-1][j]==1)
             {
@@ -29,7 +31,7 @@ public:
             }
         }
 
-        
+
     vector<vector<int>> findFarmland(vector<vector<int>>& land) {
 
         n=land.size();
@@ -45,16 +47,10 @@ public:
             {
                 if(vis[i][j]==-1 && land[i][j]==1)
                 {
-                    v.clear();
+                    x=i;
+                    y=j;
                     dfs(i,j,land,vis);
-                    if(v.size()>0)
-                    {
-                        sort(v.begin(),v.end());
-                        auto[x,y]=v[0];
-                        auto[a,b]=v[v.size()-1];
-
-                        ans.push_back({x,y,a,b});
-                    }
+                    ans.push_back({i,j,x,y});
                 }
             }
         }
