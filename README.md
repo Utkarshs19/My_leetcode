@@ -320,6 +320,7 @@ all the leetcode questions
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1314-matrix-block-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1314-matrix-block-sum) |
@@ -484,6 +485,7 @@ all the leetcode questions
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1314-matrix-block-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1314-matrix-block-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -981,6 +983,7 @@ all the leetcode questions
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
