@@ -23,6 +23,7 @@ public:
             int cost=pq.top().second.second;
             int stop=pq.top().first;
             pq.pop();
+            
             if(stop>k)continue;
 
             for(auto i:adj[s])
