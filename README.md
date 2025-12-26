@@ -183,6 +183,7 @@ all the leetcode questions
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/Utkarshs19/My_leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Utkarshs19/My_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/2580-circular-sentence) |
@@ -741,6 +742,7 @@ all the leetcode questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Utkarshs19/My_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3361-shift-distance-between-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/3361-shift-distance-between-two-strings) |
