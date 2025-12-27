@@ -1,65 +1,59 @@
+//  Normal Disjoint Set Union;
+
 class Solution {
 public:
 
-    void dfs(int node,vector<int> &vis,vector<vector<int>> &adj,int a,int b)
+    vector<int> parent,rank;
+
+    int find(int i)
     {
-        vis[node]=1;
-
-        for(auto i:adj[node])
+        if(parent[i]!=i)
         {
-            if(node==a && i==b || node==b&&i==a)continue;
+            parent[i]=find(parent[i]);
+        }
+        return parent[i];
+    }
 
-            if(vis[i]==-1)
+    void join(int a,int b)
+    {
+        int root_A=find(a);
+        int root_B=find(b);
+
+        if(root_A!=root_B)
+        {
+            if(rank[root_A]>rank[root_B])
             {
-                dfs(i,vis,adj,a,b);
+                parent[root_B]=root_A;
             }
-
+            else if(rank[root_A]<rank[root_B])
+            {
+                parent[root_A]=root_B;
+            }
+            else
+            {
+                parent[root_B]=root_A;
+                rank[root_A]++;
+            }
         }
     }
 
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
 
-        int x=-1;
-        int y=-1;
-
-        vector<int> ans;
-
         int n=edges.size();
+        parent.resize(n+1);
+        rank.resize(n+1,0);
 
-        vector<vector<int>> adj(n+1);
+        for(int i=1;i<=n;i++)parent[i]=i;
 
-        for(int i=0;i<edges.size();i++)
+        for(auto& edge:edges)
         {
-            adj[edges[i][0]].push_back(edges[i][1]);
-            adj[edges[i][1]].push_back(edges[i][0]);
-        }
+            int u=edge[0];
+            int v=edge[1];
 
-        for(int i=0;i<n;i++)
-        {
-            int cc=0;
-
-            vector<int> vis(n+1,-1);
-
-            for(int j=1;j<n+1;j++)
-            {
-                if(vis[j]==-1)
-                {
-                    cc++;
-                    dfs(j,vis,adj,edges[i][0],edges[i][1]);
-                }
-            }
-
-
-            if(cc==1)
-            {
-                x=edges[i][0];
-                y=edges[i][1];
-            }
+            if(find(u)==find(v))return edge;
+            join(u,v);
         }
         
-        ans.push_back(x);
-        ans.push_back(y);
-
-        return ans;
-    }
+        return {};
+    }   
 };
