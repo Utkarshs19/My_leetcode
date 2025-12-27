@@ -49,7 +49,6 @@ public:
                 }
             }
 
-            cout<<edges[i][0]<<"  "<<edges[i][1]<<"  "<<cc<<endl;
 
             if(cc==1)
             {
