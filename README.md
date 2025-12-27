@@ -125,6 +125,7 @@ all the leetcode questions
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0696-count-binary-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
@@ -286,6 +287,7 @@ all the leetcode questions
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -527,6 +529,7 @@ all the leetcode questions
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
@@ -760,6 +763,7 @@ all the leetcode questions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
@@ -826,6 +830,7 @@ all the leetcode questions
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -992,6 +997,7 @@ all the leetcode questions
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
@@ -1010,6 +1016,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
