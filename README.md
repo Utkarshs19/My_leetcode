@@ -139,6 +139,7 @@ all the leetcode questions
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
@@ -309,6 +310,7 @@ all the leetcode questions
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
@@ -1027,6 +1029,7 @@ all the leetcode questions
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1044,6 +1047,7 @@ all the leetcode questions
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
