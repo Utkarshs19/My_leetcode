@@ -127,6 +127,7 @@ all the leetcode questions
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
@@ -537,6 +538,7 @@ all the leetcode questions
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
@@ -897,6 +899,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0899-binary-gap](https://github.com/Utkarshs19/My_leetcode/tree/master/0899-binary-gap) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1072,6 +1075,7 @@ all the leetcode questions
 ## Backtracking
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 ## Database
