@@ -45,21 +45,10 @@ public:
             }
         }
 
-        // for(int i=0;i<edges.size();i++)
-        // {
-        //     cout<<edges[i][0]<<" "<<edges[i][1]<<" "<<edges[i][2]<<endl;
-        // }
+        
 
         sort(edges.begin(),edges.end(),
         [](auto &l,auto &r) {return l[2]<r[2];});
-
-        cout<<endl<<endl;
-
-        // for(int i=0;i<edges.size();i++)
-        // {
-        //     cout<<edges[i][0]<<" "<<edges[i][1]<<" "<<edges[i][2]<<endl;
-        // }
-
 
         for(auto& edge:edges)
         {
