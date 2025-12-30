@@ -838,6 +838,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
@@ -1012,6 +1013,7 @@ all the leetcode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
@@ -1055,6 +1057,7 @@ all the leetcode questions
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1096,4 +1099,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarshs19/My_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
