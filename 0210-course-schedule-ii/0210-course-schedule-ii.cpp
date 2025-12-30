@@ -16,10 +16,10 @@ public:
             {
                 dfs(i,adj);
             }
-            else
+            else if(instack[i])
             {
-                if(instack[i]==true)
                 cycle=true;
+                return;
             }
         }
         instack[node]=false;
