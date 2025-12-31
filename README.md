@@ -868,6 +868,7 @@ all the leetcode questions
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1040,6 +1041,7 @@ all the leetcode questions
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
@@ -1058,6 +1060,7 @@ all the leetcode questions
 | [2076-process-restricted-friend-requests](https://github.com/Utkarshs19/My_leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1081,6 +1084,7 @@ all the leetcode questions
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Game Theory
