@@ -308,6 +308,7 @@ all the leetcode questions
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
+| [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
@@ -549,6 +550,7 @@ all the leetcode questions
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
+| [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
@@ -859,6 +861,7 @@ all the leetcode questions
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1038,6 +1041,7 @@ all the leetcode questions
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
+| [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1064,6 +1068,7 @@ all the leetcode questions
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -1092,6 +1097,7 @@ all the leetcode questions
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarshs19/My_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
