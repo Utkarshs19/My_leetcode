@@ -366,6 +366,7 @@ all the leetcode questions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1751-slowest-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1751-slowest-key) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
@@ -588,6 +589,7 @@ all the leetcode questions
 | [1640-check-array-formation-through-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
@@ -649,6 +651,7 @@ all the leetcode questions
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
