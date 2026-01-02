@@ -10,10 +10,6 @@ public:
             m[s.substr(i,k)]++;
         }
 
-        for(auto i:m)
-        {
-            cout<<i.first<<" "<<i.second<<endl;
-        }
 
         if(m.size()==pow(2,k))return true;
         return false;
