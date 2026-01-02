@@ -312,6 +312,7 @@ all the leetcode questions
 | [0944-delete-columns-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -553,6 +554,7 @@ all the leetcode questions
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
