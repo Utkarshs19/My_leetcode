@@ -1,7 +1,7 @@
 class ThroneInheritance {
 public:
     map<string,vector<string>> m;
-    map<string,bool> m1;
+    
     set<string> st;
 
     string king;
@@ -13,28 +13,20 @@ public:
         if(st.find(s)==st.end())
         ans.push_back(s);
 
-        m1[s]=true;
 
         for(auto &i:m[s])
         {
-            if(m1[i]==false)
-            {
-                dfs(i);
-            }
+            dfs(i);
         }
     }
 
     ThroneInheritance(string kingName) {
         king=kingName;
-        m1[king]=false;
     }
     
     void birth(string parentName, string childName) {
         
         m[parentName].push_back(childName);
-        m1[parentName]=false;
-        m1[childName]=false;
-
     }
     
     void death(string name) {
@@ -47,10 +39,6 @@ public:
 
         ans.clear();
 
-        for(auto &i:m1)
-        {
-            i.second=false;
-        }
 
         dfs(king);
 
