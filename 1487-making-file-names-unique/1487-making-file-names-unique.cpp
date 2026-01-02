@@ -28,7 +28,6 @@ public:
                         ans.push_back(s);
                         m[names[i]]=k+1;
                         m[s]=1;
-                        k++;
                         break;
                     }
                     k++;
