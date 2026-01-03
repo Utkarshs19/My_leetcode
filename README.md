@@ -157,6 +157,7 @@ all the leetcode questions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Utkarshs19/My_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Utkarshs19/My_leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -653,6 +654,7 @@ all the leetcode questions
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Utkarshs19/My_leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
