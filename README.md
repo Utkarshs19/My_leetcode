@@ -898,6 +898,7 @@ all the leetcode questions
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Utkarshs19/My_leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1089,6 +1090,7 @@ all the leetcode questions
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Utkarshs19/My_leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1148,6 +1150,7 @@ all the leetcode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Utkarshs19/My_leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarshs19/My_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
