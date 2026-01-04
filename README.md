@@ -299,6 +299,7 @@ all the leetcode questions
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
+| [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -557,6 +558,7 @@ all the leetcode questions
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
@@ -867,6 +869,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -888,6 +891,7 @@ all the leetcode questions
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1077,6 +1081,7 @@ all the leetcode questions
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
