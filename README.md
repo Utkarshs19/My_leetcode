@@ -271,6 +271,7 @@ all the leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
+| [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
@@ -415,6 +416,7 @@ all the leetcode questions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
+| [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -536,6 +538,7 @@ all the leetcode questions
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
@@ -927,6 +930,7 @@ all the leetcode questions
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Utkarshs19/My_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1119,6 +1123,7 @@ all the leetcode questions
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Utkarshs19/My_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
