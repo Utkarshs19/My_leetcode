@@ -88,6 +88,7 @@ all the leetcode questions
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -384,6 +385,7 @@ all the leetcode questions
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2012-process-tasks-using-servers](https://github.com/Utkarshs19/My_leetcode/tree/master/2012-process-tasks-using-servers) |
@@ -527,6 +529,7 @@ all the leetcode questions
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
