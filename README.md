@@ -390,6 +390,7 @@ all the leetcode questions
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2012-process-tasks-using-servers](https://github.com/Utkarshs19/My_leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
@@ -612,6 +613,7 @@ all the leetcode questions
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -886,6 +888,7 @@ all the leetcode questions
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
+| [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
@@ -926,6 +929,7 @@ all the leetcode questions
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -968,6 +972,7 @@ all the leetcode questions
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
+| [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
@@ -1126,6 +1131,7 @@ all the leetcode questions
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
