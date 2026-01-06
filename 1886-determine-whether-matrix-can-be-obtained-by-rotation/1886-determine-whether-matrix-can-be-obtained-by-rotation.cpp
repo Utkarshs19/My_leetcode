@@ -8,7 +8,7 @@ public:
 
         vector<vector<int>> v(n,vector<int>(n));
 
-        for(int time=0;time<n*n;time++)
+        for(int time=0;time<n+1;time++)
         {   int k=n-1;
             for(int i=0;i<n;i++)
             {     
