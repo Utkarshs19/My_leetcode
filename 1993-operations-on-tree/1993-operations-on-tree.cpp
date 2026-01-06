@@ -75,12 +75,10 @@ public:
         vector<int> vis(n,-1);
         st.clear();
         dfs(num,vis,cnt);
-        // cout<<"cnt "<<cnt<<endl;
         if(cnt==0)return false;
 
         int cnt2=0;
         dfs1(num,cnt2);
-        // cout<<"cnt2"<<endl;
         if(cnt2>0)return false;
 
         m[num]=user;
