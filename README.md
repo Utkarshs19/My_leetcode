@@ -718,6 +718,7 @@ all the leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -909,6 +910,7 @@ all the leetcode questions
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
@@ -1112,6 +1114,7 @@ all the leetcode questions
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1182,6 +1185,7 @@ all the leetcode questions
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1230,6 +1234,7 @@ all the leetcode questions
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Minimum Spanning Tree
