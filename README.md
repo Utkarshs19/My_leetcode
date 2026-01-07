@@ -102,6 +102,7 @@ all the leetcode questions
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Utkarshs19/My_leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Utkarshs19/My_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -211,6 +212,7 @@ all the leetcode questions
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3207-make-three-strings-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3207-make-three-strings-equal) |
@@ -641,6 +643,7 @@ all the leetcode questions
 | [2838-sum-of-matrix-after-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -692,6 +695,7 @@ all the leetcode questions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -742,6 +746,7 @@ all the leetcode questions
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -872,6 +877,7 @@ all the leetcode questions
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Utkarshs19/My_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
