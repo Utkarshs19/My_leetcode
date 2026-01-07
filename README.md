@@ -47,6 +47,7 @@ all the leetcode questions
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Utkarshs19/My_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -223,6 +224,7 @@ all the leetcode questions
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Utkarshs19/My_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3361-shift-distance-between-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/3361-shift-distance-between-two-strings) |
@@ -523,6 +525,7 @@ all the leetcode questions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -656,6 +659,7 @@ all the leetcode questions
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Utkarshs19/My_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Utkarshs19/My_leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -706,6 +710,7 @@ all the leetcode questions
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
