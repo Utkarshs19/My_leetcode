@@ -1027,6 +1027,7 @@ all the leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0899-binary-gap](https://github.com/Utkarshs19/My_leetcode/tree/master/0899-binary-gap) |
@@ -1114,6 +1115,7 @@ all the leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Radix Sort
 |  |
