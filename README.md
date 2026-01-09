@@ -51,6 +51,7 @@ all the leetcode questions
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3567-convert-date-to-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -235,6 +236,7 @@ all the leetcode questions
 | [3540-hash-divided-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Utkarshs19/My_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-convert-date-to-binary) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -681,6 +683,7 @@ all the leetcode questions
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -915,6 +918,7 @@ all the leetcode questions
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3457-eat-pizzas](https://github.com/Utkarshs19/My_leetcode/tree/master/3457-eat-pizzas) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1080,6 +1084,7 @@ all the leetcode questions
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
