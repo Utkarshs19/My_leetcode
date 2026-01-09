@@ -598,6 +598,7 @@ all the leetcode questions
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -926,6 +927,7 @@ all the leetcode questions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
@@ -957,6 +959,7 @@ all the leetcode questions
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Utkarshs19/My_leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -1002,6 +1005,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
@@ -1168,6 +1172,7 @@ all the leetcode questions
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
