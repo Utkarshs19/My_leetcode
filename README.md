@@ -980,6 +980,7 @@ all the leetcode questions
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0332-reconstruct-itinerary](https://github.com/Utkarshs19/My_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
@@ -1280,6 +1281,7 @@ all the leetcode questions
 | ------- |
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Utkarshs19/My_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
@@ -1350,4 +1352,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Utkarshs19/My_leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
