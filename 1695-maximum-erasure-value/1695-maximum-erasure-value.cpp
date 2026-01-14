@@ -6,24 +6,20 @@ public:
 
         int sum=0;
 
-        map<int,int> m;
+        set<int> st;
 
         int i=0,j=0;
 
         while(j<nums.size())
         {
-            sum+=nums[j];
-            m[nums[j]]++;
-            if(j-i+1>m.size())
+            while(st.count(nums[j]))
             {
-                while(j-i+1 > m.size())
-                {
-                    sum=sum-nums[i];
-                    m[nums[i]]--;
-                    if(m[nums[i]]==0)m.erase(nums[i]);
-                    i++;
-                }
+                sum=sum-nums[i];
+                st.erase(nums[i]);
+                i++;
             }
+            sum+=nums[j];
+            st.insert(nums[j]);
             ans=max(ans,sum);
             j++;
         }
