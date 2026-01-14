@@ -4,19 +4,6 @@ public:
 
         vector<string> ans;
 
-        vector<map<char,int>> v1;
-        vector<map<char,int>> v2;
-
-        for(int i=0;i<words1.size();i++)
-        {
-            map<char,int> m;
-            for(int j=0;j<words1[i].length();j++)
-            {
-                m[words1[i][j]]++;
-            }
-            v1.push_back(m);
-        }
-
         map<char,int> m;
 
         for(int i=0;i<words2.size();i++)
@@ -38,10 +25,12 @@ public:
             }
         }
 
-        for(int i=0;i<v1.size();i++)
+        for(int i=0;i<words1.size();i++)
         {
-            int cnt=0;
-            map<char,int> m1=v1[i];
+            map<char,int> m1;
+            for(int j=0;j<words1[i].length();j++)
+            m1[words1[i][j]]++;
+
             bool flag=true;
             
             for(auto k:m)
