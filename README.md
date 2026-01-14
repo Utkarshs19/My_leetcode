@@ -71,6 +71,7 @@ all the leetcode questions
 | [0011-container-with-most-water](https://github.com/Utkarshs19/My_leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
@@ -140,6 +141,7 @@ all the leetcode questions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -262,6 +264,7 @@ all the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -542,6 +545,7 @@ all the leetcode questions
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Utkarshs19/My_leetcode/tree/master/0799-champagne-tower) |
