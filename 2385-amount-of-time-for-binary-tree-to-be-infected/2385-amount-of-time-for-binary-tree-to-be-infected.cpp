@@ -12,14 +12,13 @@
 class Solution {
 public:
 
-    map<TreeNode*,vector<TreeNode*> > m;
-    map<int,bool> m1;
+    unordered_map<TreeNode*,vector<TreeNode*> > m;
+    unordered_map<int,bool> m1;
 
     queue<TreeNode*> q;
 
     int start;
-
-
+    
     void dfs(TreeNode* root)
     {
         if(!root)return;
