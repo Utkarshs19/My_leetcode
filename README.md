@@ -480,6 +480,7 @@ all the leetcode questions
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Utkarshs19/My_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
 | [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -834,6 +835,7 @@ all the leetcode questions
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -1398,6 +1400,7 @@ all the leetcode questions
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1420,4 +1423,5 @@ all the leetcode questions
 |  |
 | ------- |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 <!---LeetCode Topics End-->
