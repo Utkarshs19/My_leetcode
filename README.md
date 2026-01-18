@@ -1423,5 +1423,6 @@ all the leetcode questions
 |  |
 | ------- |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2924-find-champion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2924-find-champion-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 <!---LeetCode Topics End-->
