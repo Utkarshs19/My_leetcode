@@ -189,6 +189,7 @@ all the leetcode questions
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1532-reformat-the-string) |
+| [1540-can-convert-string-in-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1542-consecutive-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Utkarshs19/My_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -682,6 +683,7 @@ all the leetcode questions
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1540-can-convert-string-in-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
