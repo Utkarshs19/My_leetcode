@@ -473,6 +473,7 @@ all the leetcode questions
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2765-longest-alternating-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2765-longest-alternating-subarray) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2838-sum-of-matrix-after-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
@@ -1151,6 +1152,7 @@ all the leetcode questions
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
+| [2765-longest-alternating-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2765-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
