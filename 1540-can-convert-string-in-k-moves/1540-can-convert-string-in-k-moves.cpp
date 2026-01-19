@@ -6,23 +6,27 @@ public:
 
         if(s.length()!=t.length())return false;
 
+        map<int,int> m;
+
         for(int i=0;i<s.length();i++)
         {
-            if(s[i]!=t[i])
-            {
-                int x=t[i]-s[i];
-                if(x<0)
-                x=x+26;
-                while(st.count(x) && x<=k)
-                {
-                    x=x+26;
-                }
-                if(x>k)return false;
-                else 
-                st.insert(x);
-                cout<<x<<"  "<<i<<endl;
-            }
+            int x=(t[i]-s[i]+26)%26;
+            m[x]++;
         }
+
+        for(auto i:m)
+        {
+            if(i.first==0)continue;
+
+            int x=i.first;
+            int y=i.second;
+
+            long long time=x+26LL*(y-1);
+
+            if(time>k)return false;
+        }
+
+        return true;
 
         return true;
         
