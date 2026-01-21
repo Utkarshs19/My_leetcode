@@ -128,6 +128,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Utkarshs19/My_leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
@@ -327,6 +328,7 @@ all the leetcode questions
 | [0011-container-with-most-water](https://github.com/Utkarshs19/My_leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -591,6 +593,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1040,6 +1043,7 @@ all the leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
@@ -1408,6 +1412,7 @@ all the leetcode questions
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
