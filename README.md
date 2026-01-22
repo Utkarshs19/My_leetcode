@@ -313,6 +313,7 @@ all the leetcode questions
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Utkarshs19/My_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3540-hash-divided-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Utkarshs19/My_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -523,6 +524,7 @@ all the leetcode questions
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -752,6 +754,7 @@ all the leetcode questions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
@@ -858,6 +861,7 @@ all the leetcode questions
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
@@ -1236,6 +1240,7 @@ all the leetcode questions
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1243,6 +1248,7 @@ all the leetcode questions
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
@@ -1276,6 +1282,7 @@ all the leetcode questions
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
