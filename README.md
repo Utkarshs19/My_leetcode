@@ -172,6 +172,7 @@ all the leetcode questions
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
@@ -684,6 +685,7 @@ all the leetcode questions
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
@@ -823,6 +825,7 @@ all the leetcode questions
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -1177,6 +1180,7 @@ all the leetcode questions
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0899-binary-gap](https://github.com/Utkarshs19/My_leetcode/tree/master/0899-binary-gap) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
