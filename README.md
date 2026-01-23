@@ -247,6 +247,7 @@ all the leetcode questions
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Utkarshs19/My_leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Utkarshs19/My_leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3207-make-three-strings-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3207-make-three-strings-equal) |
@@ -756,6 +757,7 @@ all the leetcode questions
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Utkarshs19/My_leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3128-right-triangles](https://github.com/Utkarshs19/My_leetcode/tree/master/3128-right-triangles) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Utkarshs19/My_leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -816,6 +818,7 @@ all the leetcode questions
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Utkarshs19/My_leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3128-right-triangles](https://github.com/Utkarshs19/My_leetcode/tree/master/3128-right-triangles) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Utkarshs19/My_leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
