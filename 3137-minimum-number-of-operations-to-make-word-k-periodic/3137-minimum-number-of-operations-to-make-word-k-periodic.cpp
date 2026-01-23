@@ -6,8 +6,13 @@ public:
         int x=0;
         for(int i=0;i<word.length();i+=k)
         {
-            m[word.substr(i,k)]++;
-            x=max(x,m[word.substr(i,k)]);
+            string str;
+            for(int j=i;j<i+k;j++)
+            {
+                str+=word[j];
+            }
+            m[str]++;
+            x=max(x,m[str]);
         }
 
         return word.length()/k-x;
