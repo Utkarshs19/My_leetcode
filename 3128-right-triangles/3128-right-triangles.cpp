@@ -8,9 +8,6 @@ public:
         vector<int> v1(n,0);
         vector<int> v2(m,0);
 
-       
-
-
         for(int i=0;i<grid.size();i++)
         {
             for(int j=0;j<grid[0].size();j++)
@@ -22,7 +19,6 @@ public:
                 }
             }
         }
-
 
         long long ans=0;
 
@@ -36,9 +32,7 @@ public:
                 }
 
             }
-        }
-            
-
+        }    
         return ans;
         
     }
