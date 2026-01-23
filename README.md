@@ -429,6 +429,7 @@ all the leetcode questions
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Utkarshs19/My_leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarshs19/My_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -1203,6 +1204,7 @@ all the leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
