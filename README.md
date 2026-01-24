@@ -95,6 +95,7 @@ all the leetcode questions
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -449,6 +450,7 @@ all the leetcode questions
 | [1834-single-threaded-cpu](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Utkarshs19/My_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -905,6 +907,7 @@ all the leetcode questions
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -1016,6 +1019,7 @@ all the leetcode questions
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
