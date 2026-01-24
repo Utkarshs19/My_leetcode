@@ -106,6 +106,7 @@ all the leetcode questions
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -481,6 +482,7 @@ all the leetcode questions
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2378-sender-with-largest-word-count](https://github.com/Utkarshs19/My_leetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
