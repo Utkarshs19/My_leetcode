@@ -140,6 +140,7 @@ all the leetcode questions
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -285,6 +286,7 @@ all the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1068,6 +1070,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -1163,6 +1166,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
