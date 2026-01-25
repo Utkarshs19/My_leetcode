@@ -5,17 +5,17 @@ public:
         long long  ans=0;
         int n=status.size();
         vector<int> vis(n,0);
-        set<int> k;
+        vector<int> k(n,0);
         queue<int> q;
         
-        set<int> st;
+        vector<int> st(n,0);
         for(int i=0;i<initialBoxes.size();i++)
         {
             if(status[initialBoxes[i]]==1){
                 vis[initialBoxes[i]]=1;
             q.push(initialBoxes[i]);}
             else
-            st.insert(initialBoxes[i]);
+            st[initialBoxes[i]]=1;
         }
         while(!q.empty())
         {
@@ -25,8 +25,8 @@ public:
 
             for(auto i:keys[x])
             {
-                k.insert(i);
-                if(st.count(i) && !vis[i])
+                k[i]=1;
+                if(st[i] && !vis[i])
                 {
                     vis[i]=1;
                     q.push(i);
@@ -43,14 +43,14 @@ public:
                 }
                 else
                 {
-                    if(k.count(i) && !vis[i])
+                    if(k[i] && !vis[i])
                     {
                         vis[i]=1;
                         q.push(i);
                     }
                     else
                     {
-                        st.insert(i);
+                        st[i]=1;
                     }
                 }
             }
