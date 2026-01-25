@@ -165,6 +165,7 @@ all the leetcode questions
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
 | [0851-goat-latin](https://github.com/Utkarshs19/My_leetcode/tree/master/0851-goat-latin) |
+| [0854-k-similar-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0854-k-similar-strings) |
 | [0858-masking-personal-information](https://github.com/Utkarshs19/My_leetcode/tree/master/0858-masking-personal-information) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0916-word-subsets](https://github.com/Utkarshs19/My_leetcode/tree/master/0916-word-subsets) |
@@ -690,6 +691,7 @@ all the leetcode questions
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
+| [0854-k-similar-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0854-k-similar-strings) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
@@ -1362,6 +1364,7 @@ all the leetcode questions
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-making-a-large-island) |
+| [0854-k-similar-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0854-k-similar-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
