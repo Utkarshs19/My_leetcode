@@ -157,6 +157,7 @@ all the leetcode questions
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Utkarshs19/My_leetcode/tree/master/0722-remove-comments) |
+| [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -289,6 +290,7 @@ all the leetcode questions
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -686,6 +688,7 @@ all the leetcode questions
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -1011,6 +1014,7 @@ all the leetcode questions
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
