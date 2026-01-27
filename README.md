@@ -224,6 +224,7 @@ all the leetcode questions
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Utkarshs19/My_leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
