@@ -1,6 +1,7 @@
 class RecentCounter {
 public:
     vector<int> v;
+    int i=0;
     RecentCounter() {
         
     }
@@ -8,7 +9,7 @@ public:
     int ping(int t) {
 
         v.push_back(t);
-        int i=0;
+     
 
         while(v[i]<t-3000)
         {
