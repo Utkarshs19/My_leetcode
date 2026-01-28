@@ -8,12 +8,7 @@ public:
         {
             if(x==1 || x==2)
             {
-                if(v.empty())
-                {
-                    v.push_back(n);
-                }
-                else
-                {
+                
                     int y=v[v.size()-1];
                     v.pop_back();
                     if(x==1)
@@ -22,7 +17,7 @@ public:
                     {
                         v.push_back(y/n);
                     }
-                }
+                
             }
             else
             v.push_back(n);
