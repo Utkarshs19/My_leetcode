@@ -2,20 +2,22 @@ class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
 
-        map<int,int> m;
+        vector<int> v(1000,0);
+
         for(int i=0;i<trips.size();i++)
         {
-            m[trips[i][1]]+=trips[i][0];
-            m[trips[i][2]]-=trips[i][0];
+            v[trips[i][1]]+=trips[i][0];
+            v[trips[i][2]]-=trips[i][0];
         }
 
-        int sum=0;
-        for(auto i:m)
+        for(int i=1;i<v.size();i++)
         {
-            sum+=i.second;
-            if(sum>capacity)return false;
+            v[i]+=v[i-1];
         }
-        return true;
+
+        int maxi=*max_element(v.begin(),v.end());
+
+        return maxi<=capacity;
         
     }
 };
