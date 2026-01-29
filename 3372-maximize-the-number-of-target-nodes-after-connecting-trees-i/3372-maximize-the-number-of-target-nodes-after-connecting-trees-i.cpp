@@ -3,8 +3,8 @@ public:
     
     int bfs(int node,vector<vector<int>> &adj,int k)
     {
-        unordered_set<int> st;
-        st.insert(node);
+        vector<int> vis(adj.size());
+        vis[node]=1;
         queue<int> q;
         q.push(node);
 
@@ -16,9 +16,9 @@ public:
                 int x=q.front();q.pop();
                 for(auto u:adj[x])
                 {
-                    if(!st.count(u))
+                    if(!vis[u])
                     {
-                        st.insert(u);
+                        vis[u]=1;
                         q.push(u);
                     }
                 }
@@ -27,7 +27,9 @@ public:
             k--;
         }
 
-        return st.size();
+        int sum=accumulate(vis.begin(),vis.end(),0);
+
+        return sum;
     }
 
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
