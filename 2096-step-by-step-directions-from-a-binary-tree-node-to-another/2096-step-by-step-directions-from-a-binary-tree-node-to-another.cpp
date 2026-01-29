@@ -78,11 +78,6 @@ public:
             x=par[x];
         }
 
-        for(auto i:par)
-        {
-            cout<<i.first<<"  "<<i.second<<endl;
-        }
-        
         int lca;
 
         for(int i=0;i<v2.size();i++)
@@ -94,7 +89,6 @@ public:
             }
         }
 
-        cout<<lca<<endl;
 
         string s1,s2;
         str="";
