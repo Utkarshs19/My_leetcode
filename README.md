@@ -536,6 +536,7 @@ all the leetcode questions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Utkarshs19/My_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -1122,6 +1123,7 @@ all the leetcode questions
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1188,6 +1190,7 @@ all the leetcode questions
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
