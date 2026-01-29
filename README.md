@@ -233,6 +233,7 @@ all the leetcode questions
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Utkarshs19/My_leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
@@ -1113,6 +1114,7 @@ all the leetcode questions
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1170,6 +1172,7 @@ all the leetcode questions
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1207,6 +1210,7 @@ all the leetcode questions
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
