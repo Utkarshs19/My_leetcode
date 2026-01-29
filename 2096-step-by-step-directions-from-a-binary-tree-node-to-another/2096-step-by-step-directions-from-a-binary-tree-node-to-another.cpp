@@ -91,12 +91,9 @@ public:
 
 
         string s1,s2;
-         x=startValue;
-        while(x!=lca)
-        {
-            s1+='U';
-            x=par[x];
-        }
+        str="";
+        dfs(m[lca],startValue);
+        s1=str;
         str="";
         dfs(m[lca],destValue);
         s2=str;
