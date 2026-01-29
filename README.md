@@ -1124,6 +1124,7 @@ all the leetcode questions
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1192,6 +1193,7 @@ all the leetcode questions
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1450,6 +1452,7 @@ all the leetcode questions
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
