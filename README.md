@@ -337,6 +337,7 @@ all the leetcode questions
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Utkarshs19/My_leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-water-bottles) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
@@ -457,6 +458,7 @@ all the leetcode questions
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Utkarshs19/My_leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Utkarshs19/My_leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -1596,5 +1598,6 @@ all the leetcode questions
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Utkarshs19/My_leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
