@@ -338,6 +338,7 @@ all the leetcode questions
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Utkarshs19/My_leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-water-bottles) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -451,6 +452,7 @@ all the leetcode questions
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1602,4 +1604,8 @@ all the leetcode questions
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Utkarshs19/My_leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
