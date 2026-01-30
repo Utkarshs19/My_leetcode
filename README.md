@@ -1104,6 +1104,7 @@ all the leetcode questions
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Utkarshs19/My_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1152,6 +1153,7 @@ all the leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/Utkarshs19/My_leetcode/tree/master/0934-shortest-bridge) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Utkarshs19/My_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Utkarshs19/My_leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -1208,6 +1210,7 @@ all the leetcode questions
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Utkarshs19/My_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
