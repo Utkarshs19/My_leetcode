@@ -20,6 +20,7 @@ all the leetcode questions
 | [1006-clumsy-factorial](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1041-robot-bounded-in-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1289-day-of-the-week](https://github.com/Utkarshs19/My_leetcode/tree/master/1289-day-of-the-week) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -186,6 +187,7 @@ all the leetcode questions
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Utkarshs19/My_leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1041-robot-bounded-in-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -331,6 +333,7 @@ all the leetcode questions
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1006-clumsy-factorial](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-clumsy-factorial) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
+| [1041-robot-bounded-in-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
