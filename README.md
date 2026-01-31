@@ -140,6 +140,7 @@ all the leetcode questions
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Utkarshs19/My_leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -1543,6 +1544,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
