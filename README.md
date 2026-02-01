@@ -400,6 +400,7 @@ all the leetcode questions
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
@@ -728,6 +729,7 @@ all the leetcode questions
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0839-short-encoding-of-words) |
@@ -1427,6 +1429,7 @@ all the leetcode questions
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshs19/My_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-making-a-large-island) |
 | [0854-k-similar-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0854-k-similar-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
