@@ -429,6 +429,7 @@ all the leetcode questions
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
@@ -980,6 +981,7 @@ all the leetcode questions
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarshs19/My_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0981-time-based-key-value-store](https://github.com/Utkarshs19/My_leetcode/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
