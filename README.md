@@ -106,6 +106,7 @@ all the leetcode questions
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -506,6 +507,7 @@ all the leetcode questions
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -990,6 +992,7 @@ all the leetcode questions
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
