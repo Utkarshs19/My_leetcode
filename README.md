@@ -404,6 +404,7 @@ all the leetcode questions
 | [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/Utkarshs19/My_leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [0827-making-a-large-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-making-a-large-island) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
@@ -965,6 +966,7 @@ all the leetcode questions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/0696-count-binary-substrings) |
+| [0825-friends-of-appropriate-ages](https://github.com/Utkarshs19/My_leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
@@ -984,6 +986,7 @@ all the leetcode questions
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarshs19/My_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0825-friends-of-appropriate-ages](https://github.com/Utkarshs19/My_leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0981-time-based-key-value-store](https://github.com/Utkarshs19/My_leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
@@ -1065,6 +1068,7 @@ all the leetcode questions
 | [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0825-friends-of-appropriate-ages](https://github.com/Utkarshs19/My_leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
