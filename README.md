@@ -128,6 +128,7 @@ all the leetcode questions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3457-eat-pizzas](https://github.com/Utkarshs19/My_leetcode/tree/master/3457-eat-pizzas) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -585,6 +586,7 @@ all the leetcode questions
 | [3430-count-days-without-meetings](https://github.com/Utkarshs19/My_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3457-eat-pizzas](https://github.com/Utkarshs19/My_leetcode/tree/master/3457-eat-pizzas) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
@@ -1316,6 +1318,7 @@ all the leetcode questions
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
