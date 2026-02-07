@@ -8,6 +8,7 @@ all the leetcode questions
 | ------- |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0263-ugly-number) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0492-construct-the-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/0492-construct-the-rectangle) |
@@ -309,6 +310,7 @@ all the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -377,6 +379,7 @@ all the leetcode questions
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
