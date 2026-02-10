@@ -161,6 +161,7 @@ all the leetcode questions
 | [0433-minimum-genetic-mutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Utkarshs19/My_leetcode/tree/master/0482-license-key-formatting) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -979,6 +980,7 @@ all the leetcode questions
 | [0011-container-with-most-water](https://github.com/Utkarshs19/My_leetcode/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/0696-count-binary-substrings) |
