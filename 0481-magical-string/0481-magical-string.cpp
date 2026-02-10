@@ -10,21 +10,22 @@ public:
         int i=2;
         bool flag=true;
 
-        long long  ans=0;
+        long long  ans=1;
         
 
         while(i<s.length())
         {
-            
             if(flag)
             {
                 if(s[i]=='2')
                 {
                     s+="11";
+                    ans+=2;
                 }
                 else
                 {
                     s+="1";
+                    ans++;
                 }
             }
             else
@@ -44,13 +45,7 @@ public:
             if(s.length()>=n)break;
         }        
 
-        i=0;
-
-        while(i<n)
-        {
-            if(s[i]=='1')ans++;
-            i++;
-        }
+        if(s.length()>n && s[s.length()-1]=='1')ans--;
 
         return ans;
 
