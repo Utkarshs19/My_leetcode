@@ -218,6 +218,7 @@ all the leetcode questions
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
+| [1507-reformat-date](https://github.com/Utkarshs19/My_leetcode/tree/master/1507-reformat-date) |
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1532-reformat-the-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1532-reformat-the-string) |
