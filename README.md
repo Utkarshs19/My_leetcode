@@ -398,6 +398,7 @@ all the leetcode questions
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
@@ -656,6 +657,7 @@ all the leetcode questions
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1606,6 +1608,7 @@ all the leetcode questions
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
