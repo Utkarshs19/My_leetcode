@@ -8,6 +8,7 @@ all the leetcode questions
 | ------- |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0263-ugly-number) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -146,6 +147,7 @@ all the leetcode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
@@ -344,6 +346,7 @@ all the leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -1333,6 +1336,7 @@ all the leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
