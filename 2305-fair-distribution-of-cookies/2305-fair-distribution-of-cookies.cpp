@@ -22,7 +22,6 @@ public:
 
     int distributeCookies(vector<int>& cookies, int k) {
 
-
         vector<int> v(k,0);
 
         helper(0,cookies,k,v);
