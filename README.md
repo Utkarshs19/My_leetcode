@@ -547,6 +547,7 @@ all the leetcode questions
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Utkarshs19/My_leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -685,6 +686,7 @@ all the leetcode questions
 | [1668-maximum-repeating-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
+| [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -1354,6 +1356,7 @@ all the leetcode questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1637,6 +1640,7 @@ all the leetcode questions
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Utkarshs19/My_leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Database
@@ -1673,6 +1677,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
+| [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Eulerian Circuit
 |  |
 | ------- |
