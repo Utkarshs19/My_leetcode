@@ -1343,6 +1343,7 @@ all the leetcode questions
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -1635,6 +1636,7 @@ all the leetcode questions
 | ------- |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
+| [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
