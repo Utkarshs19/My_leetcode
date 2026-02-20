@@ -117,6 +117,7 @@ all the leetcode questions
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -551,6 +552,7 @@ all the leetcode questions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
