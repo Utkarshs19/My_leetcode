@@ -10,12 +10,12 @@ public:
             x=x/2;
         }
         int cnt1=0;
-        for(int i=1;i<=cnt;i++)
+        for(int i=1;i<=cnt/2;i++)
         {
             if(cnt%i==0)cnt1++;
         }
 
-        return cnt1==2;
+        return cnt1==1;
     }
 
     int countPrimeSetBits(int left, int right) {
