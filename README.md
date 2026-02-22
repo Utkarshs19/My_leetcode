@@ -1370,6 +1370,7 @@ all the leetcode questions
 | [0693-binary-number-with-alternating-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Utkarshs19/My_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Utkarshs19/My_leetcode/tree/master/0868-binary-gap) |
 | [0899-binary-gap](https://github.com/Utkarshs19/My_leetcode/tree/master/0899-binary-gap) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
