@@ -113,6 +113,7 @@ all the leetcode questions
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Utkarshs19/My_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -538,6 +539,7 @@ all the leetcode questions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Utkarshs19/My_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Utkarshs19/My_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Utkarshs19/My_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
