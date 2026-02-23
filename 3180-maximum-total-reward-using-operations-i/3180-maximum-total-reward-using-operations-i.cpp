@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int func(int ind, int sum, vector<int>& nums, vector<vector<int>>& dp) {
+    vector<vector<int>> dp;
+    int helper(int i, int sum, vector<int>& nums) {
 
-        if (ind >= nums.size())
+        if (i >= nums.size())
             return 0;
 
-        if (dp[ind][sum] != -1)
-            return dp[ind][sum];
+        if (dp[i][sum] != -1)
+            return dp[i][sum];
 
         int take = 0;
         int notTake;
 
-        if (sum < nums[ind]) {
-            take = nums[ind] + func(ind + 1, sum + nums[ind], nums, dp);
-        }
+        if (sum < nums[i]) 
+            take = nums[i] + helper(i + 1, sum + nums[i], nums);
 
-        notTake = func(ind + 1, sum, nums, dp);
+        notTake = helper(i + 1, sum, nums);
 
-        return dp[ind][sum] = max(take, notTake);
+        return dp[i][sum] = max(take, notTake);
     }
 
     int maxTotalReward(vector<int>& rewardValues) {
@@ -26,8 +26,8 @@ public:
 
         int n = rewardValues.size();
 
-        vector<vector<int>> dp(n, vector<int>(5000, -1));
+        dp.resize(n, vector<int>(5000, -1));
 
-        return func(0, 0, rewardValues, dp);
+        return helper(0, 0, rewardValues);
     }
 };
