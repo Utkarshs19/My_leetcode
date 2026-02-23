@@ -152,6 +152,7 @@ all the leetcode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
@@ -324,6 +325,7 @@ all the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -674,6 +676,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
