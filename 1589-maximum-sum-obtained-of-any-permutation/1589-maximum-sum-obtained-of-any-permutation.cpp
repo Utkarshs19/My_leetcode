@@ -15,21 +15,15 @@ public:
         {
             v[i]+=v[i-1];
         }
-        priority_queue<long long> pq;
-        for(int i=0;i<v.size();i++)
-        {
-            pq.push(v[i]);
-        }
-
+        sort(v.begin(),v.end());
         sort(nums.begin(),nums.end());
         n=nums.size()-1;
         long long ans=0;
 
-        while(!pq.empty())
+        while(n>=0)
         {
-            ans=(ans+(1ll*pq.top()*nums[n])%1000000007)%1000000007;
+            ans=(ans+(1ll*v[n]*nums[n])%1000000007)%1000000007;
             n--;
-            pq.pop();
         }
 
         return ans;
