@@ -13,6 +13,8 @@ public:
             y=y-stock[i];
             x+=(y*cost[i]);
             }
+
+            if(x>budget)return false;
         }
         return x<=budget;
     }
