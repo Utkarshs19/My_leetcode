@@ -251,6 +251,7 @@ all the leetcode questions
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -539,6 +540,7 @@ all the leetcode questions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Utkarshs19/My_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Utkarshs19/My_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Utkarshs19/My_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -1044,6 +1046,7 @@ all the leetcode questions
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -1069,6 +1072,7 @@ all the leetcode questions
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
