@@ -145,6 +145,7 @@ all the leetcode questions
 | [3457-eat-pizzas](https://github.com/Utkarshs19/My_leetcode/tree/master/3457-eat-pizzas) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -319,6 +320,7 @@ all the leetcode questions
 | [3612-process-string-with-special-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
