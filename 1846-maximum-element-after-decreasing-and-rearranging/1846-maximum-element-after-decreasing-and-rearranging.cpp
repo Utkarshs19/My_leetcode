@@ -12,7 +12,7 @@ public:
             arr[i]=arr[i-1]+1;
         }
 
-        return *max_element(arr.begin(),arr.end());
+        return arr[arr.size()-1];
         
     }
 };
