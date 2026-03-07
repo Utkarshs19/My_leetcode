@@ -92,6 +92,7 @@ all the leetcode questions
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Utkarshs19/My_leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
@@ -476,6 +477,7 @@ all the leetcode questions
 | [0990-satisfiability-of-equality-equations](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Utkarshs19/My_leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
