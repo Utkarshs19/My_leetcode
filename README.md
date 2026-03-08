@@ -233,6 +233,7 @@ all the leetcode questions
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Utkarshs19/My_leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1436-destination-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1436-destination-city) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
@@ -515,6 +516,7 @@ all the leetcode questions
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1436-destination-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1436-destination-city) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -857,6 +859,7 @@ all the leetcode questions
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1436-destination-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1436-destination-city) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
