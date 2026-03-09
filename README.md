@@ -53,6 +53,7 @@ all the leetcode questions
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Utkarshs19/My_leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2928-distribute-candies-among-children-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
@@ -1453,6 +1454,7 @@ all the leetcode questions
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2765-longest-alternating-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2765-longest-alternating-subarray) |
+| [2928-distribute-candies-among-children-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1574,6 +1576,7 @@ all the leetcode questions
 | ------- |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3128-right-triangles](https://github.com/Utkarshs19/My_leetcode/tree/master/3128-right-triangles) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
