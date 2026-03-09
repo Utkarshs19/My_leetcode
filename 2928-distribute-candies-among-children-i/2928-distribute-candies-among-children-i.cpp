@@ -1,26 +1,19 @@
 class Solution {
 public:
-    int ans=0;
-    void helper(int i,int n,int limit)
-    {
-        if(i==3)
-        {
-            if(n==0)ans++;
-
-            return;
-        }
-
-        for(int j=0;j<=limit;j++)
-        {
-            helper(i+1,n-j,limit);
-        }
-    }
-
     int distributeCandies(int n, int limit) {
-        
-        helper(0,n,limit);
+
+        int ans=0;
+
+        for(int i=0;i<=limit;i++)
+        {
+            for(int j=0;j<=limit;j++)
+            {
+                int x=n-i-j;
+                if(x>=0 && x<=limit)ans++;
+            }
+        }
 
         return ans;
-
+        
     }
 };
