@@ -27,6 +27,7 @@ all the leetcode questions
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1041-robot-bounded-in-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1289-day-of-the-week](https://github.com/Utkarshs19/My_leetcode/tree/master/1289-day-of-the-week) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -100,6 +101,7 @@ all the leetcode questions
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
@@ -499,6 +501,7 @@ all the leetcode questions
 | [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1206-corporate-flight-bookings](https://github.com/Utkarshs19/My_leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
