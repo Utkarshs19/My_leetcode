@@ -385,6 +385,7 @@ all the leetcode questions
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Utkarshs19/My_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Utkarshs19/My_leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Utkarshs19/My_leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1642-water-bottles](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-water-bottles) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
@@ -537,6 +538,7 @@ all the leetcode questions
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Utkarshs19/My_leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Utkarshs19/My_leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarshs19/My_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
