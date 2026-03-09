@@ -611,6 +611,7 @@ all the leetcode questions
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
@@ -1081,6 +1082,7 @@ all the leetcode questions
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
