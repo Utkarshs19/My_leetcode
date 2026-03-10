@@ -13,6 +13,7 @@ all the leetcode questions
 | [0263-ugly-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/0492-construct-the-rectangle) |
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0738-monotone-increasing-digits) |
@@ -432,6 +433,7 @@ all the leetcode questions
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1430,6 +1432,7 @@ all the leetcode questions
 | [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
