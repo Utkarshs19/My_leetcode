@@ -58,6 +58,7 @@ all the leetcode questions
 | [2928-distribute-candies-among-children-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3128-right-triangles](https://github.com/Utkarshs19/My_leetcode/tree/master/3128-right-triangles) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -752,6 +753,7 @@ all the leetcode questions
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1119,6 +1121,7 @@ all the leetcode questions
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1456,6 +1459,7 @@ all the leetcode questions
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Enumeration
