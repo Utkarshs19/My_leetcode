@@ -13,6 +13,7 @@ all the leetcode questions
 | [0263-ugly-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/Utkarshs19/My_leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/0492-construct-the-rectangle) |
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -1101,6 +1102,7 @@ all the leetcode questions
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/Utkarshs19/My_leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarshs19/My_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
