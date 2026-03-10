@@ -19,6 +19,7 @@ all the leetcode questions
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Utkarshs19/My_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0789-escape-the-ghosts](https://github.com/Utkarshs19/My_leetcode/tree/master/0789-escape-the-ghosts) |
 | [0830-largest-triangle-area](https://github.com/Utkarshs19/My_leetcode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -457,6 +458,7 @@ all the leetcode questions
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0789-escape-the-ghosts](https://github.com/Utkarshs19/My_leetcode/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
