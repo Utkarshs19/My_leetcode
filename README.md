@@ -1428,6 +1428,7 @@ all the leetcode questions
 | [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
