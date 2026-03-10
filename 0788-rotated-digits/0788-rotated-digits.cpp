@@ -4,20 +4,15 @@ public:
     bool helper(int x)
     {
         int y=x;
-        vector<int> v1,v2;
+        bool ans=false;
         while(y>0)
-        {
-            v1.push_back(y%10);
-            if(y%10==0 || y%10==1 ||y%10==8)v2.push_back(y%10);
-            else if(y%10==2)v2.push_back(5);
-            else if(y%10==5)v2.push_back(2);
-            else if(y%10==6)v2.push_back(9);
-            else if(y%10==9)v2.push_back(6);
-            else return false;
+        {   
+            if(y%10==3 || y%10==4 || y%10==7)return false;
+            if(y%10==2 || y%10==5 || y%10==6 || y%10==9)ans=true;
             y=y/10;
         }
 
-        return v1!=v2;
+        return ans;
     }
 
     int rotatedDigits(int n) {
