@@ -601,6 +601,7 @@ all the leetcode questions
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -1474,6 +1475,7 @@ all the leetcode questions
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -1487,6 +1489,7 @@ all the leetcode questions
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
@@ -1771,6 +1774,7 @@ all the leetcode questions
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
