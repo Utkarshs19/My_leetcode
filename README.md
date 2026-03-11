@@ -502,6 +502,7 @@ all the leetcode questions
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Utkarshs19/My_leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
@@ -741,6 +742,7 @@ all the leetcode questions
 | [0799-champagne-tower](https://github.com/Utkarshs19/My_leetcode/tree/master/0799-champagne-tower) |
 | [0909-stone-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-stone-game) |
 | [0935-knight-dialer](https://github.com/Utkarshs19/My_leetcode/tree/master/0935-knight-dialer) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Utkarshs19/My_leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
