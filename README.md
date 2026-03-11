@@ -44,6 +44,7 @@ all the leetcode questions
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1126,6 +1127,7 @@ all the leetcode questions
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
