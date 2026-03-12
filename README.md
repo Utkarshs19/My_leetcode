@@ -1299,6 +1299,7 @@ all the leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Utkarshs19/My_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1423,6 +1424,7 @@ all the leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Utkarshs19/My_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
