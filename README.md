@@ -629,6 +629,7 @@ all the leetcode questions
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Utkarshs19/My_leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -1133,6 +1134,7 @@ all the leetcode questions
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Utkarshs19/My_leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
