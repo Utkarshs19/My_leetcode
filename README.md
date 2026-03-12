@@ -356,6 +356,7 @@ all the leetcode questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -450,6 +451,7 @@ all the leetcode questions
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
@@ -1292,6 +1294,7 @@ all the leetcode questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
+| [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
@@ -1416,6 +1419,7 @@ all the leetcode questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
+| [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -1553,6 +1557,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Utkarshs19/My_leetcode/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/Utkarshs19/My_leetcode/tree/master/0962-maximum-width-ramp) |
@@ -1598,6 +1603,7 @@ all the leetcode questions
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
+| [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Radix Sort
