@@ -2,7 +2,7 @@ class Solution {
 public:
     long long maxSum(vector<int>& nums, int m, int k) {
 
-        map<int,int> m1;
+        unordered_map<int,int> m1;
         long long ans=0;
         long long sum=0;
 
