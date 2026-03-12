@@ -13,19 +13,13 @@ public:
             m[nums[j]]++;
             maxi=max(maxi,m[nums[j]]);
 
-            if(m.size()>1)
+            while(j-i+1 - maxi >k)
             {
-                int x=j-i+1-maxi;
-                ans=max(ans,maxi);
-
-                if(x>k)
-                {
-                    m[nums[i]]--;
-                    maxi=max(maxi,m[nums[i]]);
-                    if(m[nums[i]]==0)m.erase(nums[i]);
-                    i++;
-                }
+                m[nums[i]]--;
+                i++;
             }
+
+            ans=max(ans,maxi);  
             j++;
         }
 
