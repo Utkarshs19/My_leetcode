@@ -11,49 +11,19 @@
  */
 class Solution {
 public:
-    vector<int> v;
-    void dfs(TreeNode* root)
-    {
-        if(!root)return;
-
-        dfs(root->left);
-        v.push_back(root->val);
-        dfs(root->right);
-    }
-
-    TreeNode* helper(vector<int> &v)
-    {
-        if(v.size()==0)return nullptr;
-
-        int maxi=INT_MIN;
-        int ind=-1;
-
-        for(int i=0;i<v.size();i++)
-        {
-            if(v[i]>maxi)
-            {
-                maxi=v[i];
-                ind=i;
-            }
-        }
-
-        TreeNode* ans=new TreeNode(maxi);
-        vector<int> v1(v.begin(),v.begin()+ind);
-        vector<int> v2(v.begin()+ind+1,v.end());
-
-        ans->left=helper(v1);
-        ans->right=helper(v2);
-
-        return ans;
-    }
-
     TreeNode* insertIntoMaxTree(TreeNode* root, int val) {
+
+        if(!root)return new TreeNode(val);
+
+        if(val>root->val)
+        {
+            TreeNode* ans=new TreeNode(val);
+            ans->left=root;
+            return ans;
+        }
         
-        dfs(root);
-        v.push_back(val);
+        root->right=insertIntoMaxTree(root->right,val);
 
-        return helper(v);
-
-
+        return root;
     }
 };
