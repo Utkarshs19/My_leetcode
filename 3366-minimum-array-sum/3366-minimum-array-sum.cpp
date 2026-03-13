@@ -5,9 +5,6 @@ public:
 
     long long helper(int i,vector<int> &nums,int k,int op1,int op2)
     {
-       int n = nums.size();
-
-
         if(i==nums.size())
         {
             return 0;
