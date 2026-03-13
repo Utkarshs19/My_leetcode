@@ -7,8 +7,6 @@ public:
     {
        int n = nums.size();
 
-        op1 = min(op1, n - i);
-        op2 = min(op2, n - i);
 
         if(i==nums.size())
         {
