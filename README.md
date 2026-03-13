@@ -119,6 +119,7 @@ all the leetcode questions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1652-minimum-suffix-flips](https://github.com/Utkarshs19/My_leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
@@ -568,6 +569,7 @@ all the leetcode questions
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1642-furthest-building-you-can-reach](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1695-maximum-erasure-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
@@ -1078,6 +1080,7 @@ all the leetcode questions
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1834-single-threaded-cpu](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-single-threaded-cpu) |
