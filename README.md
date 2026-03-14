@@ -248,6 +248,7 @@ all the leetcode questions
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Utkarshs19/My_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1410-html-entity-parser](https://github.com/Utkarshs19/My_leetcode/tree/master/1410-html-entity-parser) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Utkarshs19/My_leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -1816,6 +1817,7 @@ all the leetcode questions
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
