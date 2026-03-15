@@ -1075,6 +1075,7 @@ all the leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
@@ -1605,6 +1606,7 @@ all the leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -1627,6 +1629,7 @@ all the leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
@@ -1899,4 +1902,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
