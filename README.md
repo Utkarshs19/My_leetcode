@@ -6,6 +6,7 @@ all the leetcode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
@@ -1610,6 +1611,7 @@ all the leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
@@ -1910,4 +1912,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
