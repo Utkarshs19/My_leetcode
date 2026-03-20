@@ -717,6 +717,7 @@ all the leetcode questions
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -848,6 +849,7 @@ all the leetcode questions
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -1315,6 +1317,7 @@ all the leetcode questions
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3457-eat-pizzas](https://github.com/Utkarshs19/My_leetcode/tree/master/3457-eat-pizzas) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
