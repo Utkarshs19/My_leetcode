@@ -111,6 +111,7 @@ all the leetcode questions
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Utkarshs19/My_leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
@@ -522,6 +523,7 @@ all the leetcode questions
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Utkarshs19/My_leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
