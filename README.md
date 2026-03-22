@@ -901,6 +901,7 @@ all the leetcode questions
 | [0911-online-election](https://github.com/Utkarshs19/My_leetcode/tree/master/0911-online-election) |
 | [0916-word-subsets](https://github.com/Utkarshs19/My_leetcode/tree/master/0916-word-subsets) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1406,6 +1407,7 @@ all the leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/Utkarshs19/My_leetcode/tree/master/0934-shortest-bridge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1907,6 +1909,7 @@ all the leetcode questions
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
@@ -1921,6 +1924,7 @@ all the leetcode questions
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Brainteaser
