@@ -23,11 +23,8 @@ public:
             if(nums1[i]%2==0)continue;
             else
             {
-                if(o==-1)even=false;
-                else
-                {
-                    if(nums1[i]-o<1)even=false;
-                }
+                if(o==-1 || nums1[i]-o<1)even=false;
+                
             }
         }
 
@@ -38,11 +35,7 @@ public:
             if(nums1[i]%2!=0)continue;
             else
             {
-                if(o==-1)odd=false;
-                else
-                {
-                    if(nums1[i]-o<1)odd=false;
-                }
+                if(o==-1 || nums1[i]-o<1)odd=false;
             }
         }
         if(odd)return true;
