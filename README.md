@@ -450,6 +450,7 @@ all the leetcode questions
 | [0228-summary-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0228-summary-ranges) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -762,6 +763,7 @@ all the leetcode questions
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
@@ -810,6 +812,7 @@ all the leetcode questions
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
@@ -1384,6 +1387,7 @@ all the leetcode questions
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Utkarshs19/My_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
@@ -1710,6 +1714,7 @@ all the leetcode questions
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -1892,6 +1897,7 @@ all the leetcode questions
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bitmask
@@ -1908,6 +1914,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -1944,4 +1951,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
