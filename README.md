@@ -225,6 +225,7 @@ all the leetcode questions
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0916-word-subsets](https://github.com/Utkarshs19/My_leetcode/tree/master/0916-word-subsets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -503,6 +504,7 @@ all the leetcode questions
 | [0924-minimize-malware-spread](https://github.com/Utkarshs19/My_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/Utkarshs19/My_leetcode/tree/master/0934-shortest-bridge) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1567,6 +1569,7 @@ all the leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1861,6 +1864,7 @@ all the leetcode questions
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
