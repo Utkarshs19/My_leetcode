@@ -723,6 +723,7 @@ all the leetcode questions
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -860,6 +861,7 @@ all the leetcode questions
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Utkarshs19/My_leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -1257,6 +1259,7 @@ all the leetcode questions
 | [3361-shift-distance-between-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/3361-shift-distance-between-two-strings) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Utkarshs19/My_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -1586,6 +1589,7 @@ all the leetcode questions
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
