@@ -615,6 +615,7 @@ all the leetcode questions
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
@@ -855,6 +856,7 @@ all the leetcode questions
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Utkarshs19/My_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
@@ -1602,6 +1604,7 @@ all the leetcode questions
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
