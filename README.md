@@ -168,6 +168,7 @@ all the leetcode questions
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3457-eat-pizzas](https://github.com/Utkarshs19/My_leetcode/tree/master/3457-eat-pizzas) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
@@ -347,6 +348,7 @@ all the leetcode questions
 | [3407-substring-matching-pattern](https://github.com/Utkarshs19/My_leetcode/tree/master/3407-substring-matching-pattern) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Utkarshs19/My_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3540-hash-divided-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
@@ -1247,6 +1249,7 @@ all the leetcode questions
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3407-substring-matching-pattern](https://github.com/Utkarshs19/My_leetcode/tree/master/3407-substring-matching-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
