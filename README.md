@@ -151,6 +151,7 @@ all the leetcode questions
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -665,6 +666,7 @@ all the leetcode questions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -819,6 +821,7 @@ all the leetcode questions
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
@@ -1225,6 +1228,7 @@ all the leetcode questions
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Utkarshs19/My_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Utkarshs19/My_leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2831-find-the-longest-equal-subarray) |
