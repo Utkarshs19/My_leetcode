@@ -556,6 +556,7 @@ all the leetcode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1306-jump-game-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/Utkarshs19/My_leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1314-matrix-block-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1314-matrix-block-sum) |
@@ -1470,6 +1471,7 @@ all the leetcode questions
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1306-jump-game-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarshs19/My_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Utkarshs19/My_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
@@ -1805,6 +1807,7 @@ all the leetcode questions
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Utkarshs19/My_leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1306-jump-game-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Utkarshs19/My_leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarshs19/My_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
