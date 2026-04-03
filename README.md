@@ -422,6 +422,7 @@ all the leetcode questions
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Utkarshs19/My_leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1642-water-bottles](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-water-bottles) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1929-concatenation-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -620,6 +621,7 @@ all the leetcode questions
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Utkarshs19/My_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1929-concatenation-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1929-concatenation-of-array) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
