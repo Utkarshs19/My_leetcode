@@ -1410,6 +1410,7 @@ all the leetcode questions
 | [1376-time-needed-to-inform-all-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
@@ -1479,6 +1480,7 @@ all the leetcode questions
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1462-course-schedule-iv) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1542,6 +1544,7 @@ all the leetcode questions
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -1601,6 +1604,7 @@ all the leetcode questions
 | [1018-binary-prefix-divisible-by-5](https://github.com/Utkarshs19/My_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Utkarshs19/My_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -1814,6 +1818,7 @@ all the leetcode questions
 | [1376-time-needed-to-inform-all-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
