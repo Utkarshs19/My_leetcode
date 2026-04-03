@@ -668,6 +668,7 @@ all the leetcode questions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -1424,6 +1425,7 @@ all the leetcode questions
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1505,6 +1507,7 @@ all the leetcode questions
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Utkarshs19/My_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1837,6 +1840,7 @@ all the leetcode questions
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Utkarshs19/My_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -1994,6 +1998,7 @@ all the leetcode questions
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2924-find-champion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2924-find-champion-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
