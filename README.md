@@ -576,6 +576,7 @@ all the leetcode questions
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1470-shuffle-the-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1470-shuffle-the-array) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Utkarshs19/My_leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
