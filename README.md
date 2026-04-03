@@ -472,6 +472,7 @@ all the leetcode questions
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
