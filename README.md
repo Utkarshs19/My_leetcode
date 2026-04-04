@@ -641,6 +641,7 @@ all the leetcode questions
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -874,6 +875,7 @@ all the leetcode questions
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -1161,6 +1163,7 @@ all the leetcode questions
 | [1917-maximum-average-pass-ratio](https://github.com/Utkarshs19/My_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2012-process-tasks-using-servers](https://github.com/Utkarshs19/My_leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1354,6 +1357,7 @@ all the leetcode questions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Utkarshs19/My_leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1836,6 +1840,7 @@ all the leetcode questions
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
