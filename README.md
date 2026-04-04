@@ -637,6 +637,7 @@ all the leetcode questions
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2059-minimum-operations-to-convert-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1840,6 +1841,7 @@ all the leetcode questions
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
+| [2059-minimum-operations-to-convert-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
