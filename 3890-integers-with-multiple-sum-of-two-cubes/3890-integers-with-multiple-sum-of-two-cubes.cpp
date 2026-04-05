@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findGoodIntegers(int n) {
 
-        map<int,int> m;
+        unordered_map<int,int> m;
 
         for(int i=1;1ll*i*i*i<=n;i++)        
         {
@@ -21,6 +21,7 @@ public:
             if(i.second>=2)
             ans.push_back(i.first);
         }
+        sort(ans.begin(),ans.end());
         return ans;
     }
 };
