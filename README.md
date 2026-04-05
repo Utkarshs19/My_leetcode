@@ -836,6 +836,7 @@ all the leetcode questions
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -1862,6 +1863,7 @@ all the leetcode questions
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
@@ -2050,4 +2052,5 @@ all the leetcode questions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
