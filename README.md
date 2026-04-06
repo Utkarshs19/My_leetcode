@@ -222,6 +222,7 @@ all the leetcode questions
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0804-unique-morse-code-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
@@ -503,6 +504,7 @@ all the leetcode questions
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0789-escape-the-ghosts](https://github.com/Utkarshs19/My_leetcode/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0804-unique-morse-code-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
 | [0824-number-of-lines-to-write-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -945,6 +947,7 @@ all the leetcode questions
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0804-unique-morse-code-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0804-unique-morse-code-words) |
 | [0815-bus-routes](https://github.com/Utkarshs19/My_leetcode/tree/master/0815-bus-routes) |
 | [0822-card-flipping-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0822-card-flipping-game) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
