@@ -115,6 +115,7 @@ all the leetcode questions
 | [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -391,6 +392,7 @@ all the leetcode questions
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Utkarshs19/My_leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -547,6 +549,7 @@ all the leetcode questions
 | [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -815,6 +818,7 @@ all the leetcode questions
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Utkarshs19/My_leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1706,6 +1710,7 @@ all the leetcode questions
 | [0853-car-fleet](https://github.com/Utkarshs19/My_leetcode/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/Utkarshs19/My_leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
