@@ -681,6 +681,7 @@ all the leetcode questions
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2401-longest-nice-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2401-longest-nice-subarray) |
+| [2420-find-all-good-indices](https://github.com/Utkarshs19/My_leetcode/tree/master/2420-find-all-good-indices) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
@@ -846,6 +847,7 @@ all the leetcode questions
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2420-find-all-good-indices](https://github.com/Utkarshs19/My_leetcode/tree/master/2420-find-all-good-indices) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -1322,6 +1324,7 @@ all the leetcode questions
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2420-find-all-good-indices](https://github.com/Utkarshs19/My_leetcode/tree/master/2420-find-all-good-indices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Utkarshs19/My_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
