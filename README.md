@@ -553,6 +553,7 @@ all the leetcode questions
 | [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
@@ -1245,6 +1246,7 @@ all the leetcode questions
 | [0911-online-election](https://github.com/Utkarshs19/My_leetcode/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/Utkarshs19/My_leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -2069,4 +2071,8 @@ all the leetcode questions
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
