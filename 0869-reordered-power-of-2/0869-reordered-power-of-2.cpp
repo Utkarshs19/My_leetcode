@@ -1,46 +1,20 @@
 class Solution {
 public:
-    set<int> st;
 
-    bool power(int num)
+    string helper(int n)
     {
-        if(num==1)return true;
-        if(num<=0 || num%2==1)return false;
-
-        return power(num/2);
-    }
-
-    void helper(int i,string s)
-    {
-        if(i==s.length())
-        {
-            if(s[0]=='0')return;
-
-            int x=0;
-            for(int k=0;k<s.length();k++)
-            {
-                x=x*10+(s[k]-'0');
-            }
-            st.insert(x);
-            return ;
-        }
-
-        for(int j=i;j<s.length();j++)
-        {
-            swap(s[j],s[i]);
-            helper(i+1,s);
-            swap(s[j],s[i]);
-        }
+        string s=to_string(n);
+        sort(s.begin(),s.end());
+        return s;
     }
 
     bool reorderedPowerOf2(int n) {
-        
-        string s=to_string(n);
-        helper(0,s);
 
-        for(auto i:st)
+        string target=helper(n);
+
+        for(int i=0;i<=30;i++)
         {
-            if(power(i))return true;
+            if(helper(1<<i)==target)return true;
         }
         return false;
         
