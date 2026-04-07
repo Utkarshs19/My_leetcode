@@ -23,6 +23,7 @@ all the leetcode questions
 | [0788-rotated-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Utkarshs19/My_leetcode/tree/master/0789-escape-the-ghosts) |
 | [0830-largest-triangle-area](https://github.com/Utkarshs19/My_leetcode/tree/master/0830-largest-triangle-area) |
+| [0869-reordered-power-of-2](https://github.com/Utkarshs19/My_leetcode/tree/master/0869-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/Utkarshs19/My_leetcode/tree/master/0957-prison-cells-after-n-days) |
@@ -962,6 +963,7 @@ all the leetcode questions
 | [0854-k-similar-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0854-k-similar-strings) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0869-reordered-power-of-2](https://github.com/Utkarshs19/My_leetcode/tree/master/0869-reordered-power-of-2) |
 | [0895-maximum-frequency-stack](https://github.com/Utkarshs19/My_leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Utkarshs19/My_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/Utkarshs19/My_leetcode/tree/master/0906-walking-robot-simulation) |
@@ -1099,6 +1101,7 @@ all the leetcode questions
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/Utkarshs19/My_leetcode/tree/master/0829-subdomain-visit-count) |
+| [0869-reordered-power-of-2](https://github.com/Utkarshs19/My_leetcode/tree/master/0869-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
@@ -1358,6 +1361,7 @@ all the leetcode questions
 | [0825-friends-of-appropriate-ages](https://github.com/Utkarshs19/My_leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Utkarshs19/My_leetcode/tree/master/0853-car-fleet) |
 | [0862-find-and-replace-in-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0862-find-and-replace-in-string) |
+| [0869-reordered-power-of-2](https://github.com/Utkarshs19/My_leetcode/tree/master/0869-reordered-power-of-2) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
@@ -1665,6 +1669,7 @@ all the leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/Utkarshs19/My_leetcode/tree/master/0869-reordered-power-of-2) |
 | [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
