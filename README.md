@@ -454,6 +454,7 @@ all the leetcode questions
 | [3616-make-array-elements-equal-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/Utkarshs19/My_leetcode/tree/master/3625-stone-removal-game) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -785,6 +786,7 @@ all the leetcode questions
 | [3643-flip-square-submatrix-vertically](https://github.com/Utkarshs19/My_leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Utkarshs19/My_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -1794,6 +1796,7 @@ all the leetcode questions
 | [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Radix Sort
 |  |
 | ------- |
