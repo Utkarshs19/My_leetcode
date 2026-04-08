@@ -1004,6 +1004,7 @@ all the leetcode questions
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -1108,6 +1109,7 @@ all the leetcode questions
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Utkarshs19/My_leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
@@ -1457,6 +1459,7 @@ all the leetcode questions
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
@@ -1530,6 +1533,7 @@ all the leetcode questions
 | [1462-course-schedule-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1462-course-schedule-iv) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1871,6 +1875,7 @@ all the leetcode questions
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
