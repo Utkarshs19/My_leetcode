@@ -799,6 +799,7 @@ all the leetcode questions
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Utkarshs19/My_leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -1095,6 +1096,7 @@ all the leetcode questions
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Utkarshs19/My_leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -1138,6 +1140,7 @@ all the leetcode questions
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Utkarshs19/My_leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
