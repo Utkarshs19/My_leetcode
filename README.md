@@ -304,6 +304,7 @@ all the leetcode questions
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Utkarshs19/My_leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Utkarshs19/My_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -850,6 +851,7 @@ all the leetcode questions
 | [1668-maximum-repeating-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
@@ -1678,6 +1680,7 @@ all the leetcode questions
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
@@ -2011,6 +2014,7 @@ all the leetcode questions
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -2053,6 +2057,7 @@ all the leetcode questions
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Eulerian Circuit
 |  |
