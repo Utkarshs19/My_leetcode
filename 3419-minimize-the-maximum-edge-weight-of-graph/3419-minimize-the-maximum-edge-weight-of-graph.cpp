@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(int node,vector<vector<pair<int,int>>> &adj,int mid,vector<int> &vis,int threshold)
+    void dfs(int node,vector<vector<pair<int,int>>> &adj,int mid,vector<int> &vis)
     {
         vis[node]=1;
         for(auto [next,wt]:adj[node])
@@ -9,17 +9,17 @@ public:
             if(wt>mid)continue;
             if(!vis[next])
             {
-                dfs(next,adj,mid,vis,threshold);
+                dfs(next,adj,mid,vis);
             }
         }
 
     }
 
-    bool helper(int mid,vector<vector<pair<int,int>>> &adj,int n,int threshold)
+    bool helper(int mid,vector<vector<pair<int,int>>> &adj,int n)
     {
         vector<int> vis(n,0);
 
-        dfs(0,adj,mid,vis,threshold);
+        dfs(0,adj,mid,vis);
 
         for(int i=0;i<n;i++)
         {
@@ -46,7 +46,7 @@ public:
         {
             int mid=low+(high-low)/2;
 
-            if(helper(mid,adj,n,threshold))
+            if(helper(mid,adj,n))
             {
                 ans=mid;
                 high=mid-1;
