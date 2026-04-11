@@ -705,6 +705,7 @@ all the leetcode questions
 | [2594-minimum-time-to-repair-cars](https://github.com/Utkarshs19/My_leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2653-sliding-subarray-beauty](https://github.com/Utkarshs19/My_leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1057,6 +1058,7 @@ all the leetcode questions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2653-sliding-subarray-beauty](https://github.com/Utkarshs19/My_leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -1172,6 +1174,7 @@ all the leetcode questions
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2401-longest-nice-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2401-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2653-sliding-subarray-beauty](https://github.com/Utkarshs19/My_leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
