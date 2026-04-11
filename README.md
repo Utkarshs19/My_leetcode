@@ -459,6 +459,7 @@ all the leetcode questions
 | [3625-stone-removal-game](https://github.com/Utkarshs19/My_leetcode/tree/master/3625-stone-removal-game) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -795,6 +796,7 @@ all the leetcode questions
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Utkarshs19/My_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -1103,6 +1105,7 @@ all the leetcode questions
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1152,6 +1155,7 @@ all the leetcode questions
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Utkarshs19/My_leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1186,6 +1190,7 @@ all the leetcode questions
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Utkarshs19/My_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
