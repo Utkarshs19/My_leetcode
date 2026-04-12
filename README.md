@@ -748,6 +748,7 @@ all the leetcode questions
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -926,6 +927,7 @@ all the leetcode questions
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Utkarshs19/My_leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1228,6 +1230,7 @@ all the leetcode questions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1940,6 +1943,7 @@ all the leetcode questions
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -2059,6 +2063,7 @@ all the leetcode questions
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Minimum Spanning Tree
 |  |
@@ -2099,6 +2104,7 @@ all the leetcode questions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Union-Find
 |  |
