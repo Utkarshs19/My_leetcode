@@ -49,6 +49,7 @@ all the leetcode questions
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1042,6 +1043,7 @@ all the leetcode questions
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -1137,6 +1139,7 @@ all the leetcode questions
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1722,6 +1725,7 @@ all the leetcode questions
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -2038,6 +2042,7 @@ all the leetcode questions
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
