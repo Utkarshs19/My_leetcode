@@ -850,6 +850,7 @@ all the leetcode questions
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -1496,6 +1497,7 @@ all the leetcode questions
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1568,6 +1570,7 @@ all the leetcode questions
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarshs19/My_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Utkarshs19/My_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1639,6 +1642,7 @@ all the leetcode questions
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
