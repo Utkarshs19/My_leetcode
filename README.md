@@ -698,6 +698,7 @@ all the leetcode questions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
+| [2463-minimum-total-distance-traveled](https://github.com/Utkarshs19/My_leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -868,6 +869,7 @@ all the leetcode questions
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2420-find-all-good-indices](https://github.com/Utkarshs19/My_leetcode/tree/master/2420-find-all-good-indices) |
+| [2463-minimum-total-distance-traveled](https://github.com/Utkarshs19/My_leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -1443,6 +1445,7 @@ all the leetcode questions
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
+| [2463-minimum-total-distance-traveled](https://github.com/Utkarshs19/My_leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
