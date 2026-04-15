@@ -103,6 +103,7 @@ all the leetcode questions
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -494,6 +495,7 @@ all the leetcode questions
 | [0485-max-consecutive-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
@@ -1214,6 +1216,7 @@ all the leetcode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Utkarshs19/My_leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
@@ -1399,6 +1402,7 @@ all the leetcode questions
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
+| [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
