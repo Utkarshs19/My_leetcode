@@ -778,6 +778,7 @@ all the leetcode questions
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1104,6 +1105,7 @@ all the leetcode questions
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1329,6 +1331,7 @@ all the leetcode questions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
