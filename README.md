@@ -64,6 +64,7 @@ all the leetcode questions
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Utkarshs19/My_leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Utkarshs19/My_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2928-distribute-candies-among-children-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2928-distribute-candies-among-children-i) |
@@ -723,6 +724,7 @@ all the leetcode questions
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2765-longest-alternating-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2765-longest-alternating-subarray) |
@@ -1776,6 +1778,7 @@ all the leetcode questions
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
@@ -2148,6 +2151,7 @@ all the leetcode questions
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Brainteaser
 |  |
