@@ -304,6 +304,7 @@ all the leetcode questions
 | [1751-slowest-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1751-slowest-key) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
@@ -884,6 +885,7 @@ all the leetcode questions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1668-maximum-repeating-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -1065,6 +1067,7 @@ all the leetcode questions
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Utkarshs19/My_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
@@ -1168,6 +1171,7 @@ all the leetcode questions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -2134,6 +2138,7 @@ all the leetcode questions
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1462-course-schedule-iv) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bitmask
 |  |
@@ -2158,6 +2163,7 @@ all the leetcode questions
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/Utkarshs19/My_leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2924-find-champion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2924-find-champion-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -2199,6 +2205,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Interactive
 |  |
