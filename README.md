@@ -679,6 +679,7 @@ all the leetcode questions
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utkarshs19/My_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1076,6 +1077,7 @@ all the leetcode questions
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
@@ -1343,6 +1345,7 @@ all the leetcode questions
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Utkarshs19/My_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1715,6 +1718,7 @@ all the leetcode questions
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
@@ -2211,4 +2215,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 <!---LeetCode Topics End-->
