@@ -625,6 +625,7 @@ all the leetcode questions
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Utkarshs19/My_leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Utkarshs19/My_leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarshs19/My_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -936,6 +937,7 @@ all the leetcode questions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Utkarshs19/My_leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1628,6 +1630,7 @@ all the leetcode questions
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1985,6 +1988,7 @@ all the leetcode questions
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
@@ -2186,6 +2190,7 @@ all the leetcode questions
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/2709-greatest-common-divisor-traversal) |
