@@ -680,6 +680,7 @@ all the leetcode questions
 | [2059-minimum-operations-to-convert-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utkarshs19/My_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1349,6 +1350,7 @@ all the leetcode questions
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Utkarshs19/My_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
@@ -1481,6 +1483,7 @@ all the leetcode questions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Utkarshs19/My_leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
