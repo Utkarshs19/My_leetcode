@@ -728,6 +728,7 @@ all the leetcode questions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1104,6 +1105,7 @@ all the leetcode questions
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -1231,6 +1233,7 @@ all the leetcode questions
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2401-longest-nice-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2401-longest-nice-subarray) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2653-sliding-subarray-beauty](https://github.com/Utkarshs19/My_leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2831-find-the-longest-equal-subarray) |
