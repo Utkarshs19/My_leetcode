@@ -6,8 +6,6 @@ public:
 
         if(target>sum || target<-sum || (sum-target)%2==1)return {};
 
-      
-
         vector<int> v;
         for(int i=n;i>=1;i--)
         v.push_back(i);
