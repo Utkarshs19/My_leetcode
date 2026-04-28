@@ -25,56 +25,26 @@ public:
         
         int ans=0;
 
-        char x=v[0].first;
-        if(m[x]>v[0].second)
-         ans=v[0].second+1;
-        else
-        ans=v[0].second;
-
         for(int i=0;i<v.size();i++)
         {
-            cout<<v[i].first<<"  "<<v[i].second<<endl;
-        }
+            char c=v[i].first;
+            int len=v[i].second;
 
-        for(int i=1;i<v.size()-1;i++)
-        {
-            if((v[i-1].first==v[i+1].first) && v[i].second==1)
-            { 
-                char x=v[i-1].first;
+            ans=max(ans,min(len+1,m[c]));
 
-                if(m[x]>v[i-1].second+v[i+1].second)
-                {
-                    ans=max(ans,v[i-1].second+v[i+1].second+1);
-                }
-                else
-                {
-                    ans=max(ans,v[i-1].second+v[i+1].second);
-                }
-            }
-            else if(v[i-1].first==v[i+1].first && v[i].second>1)
+            if(i>0 && i<v.size()-1)
             {
-                ans=max(ans,v[i-1].second+1);
-                ans=max(ans,v[i+1].second+1);
-            }
-            else
-            {
-                char x=v[i-1].first;
+                if((v[i-1].first==v[i+1].first) && v[i].second==1)
+                {
+                    int l=v[i-1].second+v[i+1].second;
 
-                if(m[x]>v[i-1].second)
-                ans=max(ans,v[i-1].second+1);
-                else
-                ans=max(ans,v[i-1].second);
+                    if(m[v[i-1].first]>l)l++;
+
+                    ans=max(ans,l);
+
+                }
             }
         }
-
-        int n=v.size();
-
-        x=v[n-1].first;
-
-        if(m[x]>v[n-1].second)
-        ans=max(ans,v[n-1].second+1);
-        else
-        ans=max(ans,v[n-1].second);
 
         return ans;
 
