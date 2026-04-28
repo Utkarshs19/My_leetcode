@@ -262,6 +262,7 @@ all the leetcode questions
 | [1078-occurrences-after-bigram](https://github.com/Utkarshs19/My_leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
@@ -1043,6 +1044,7 @@ all the leetcode questions
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -1222,6 +1224,7 @@ all the leetcode questions
 | [0904-fruit-into-baskets](https://github.com/Utkarshs19/My_leetcode/tree/master/0904-fruit-into-baskets) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1138-grumpy-bookstore-owner](https://github.com/Utkarshs19/My_leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Utkarshs19/My_leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
