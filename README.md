@@ -1799,6 +1799,7 @@ all the leetcode questions
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Utkarshs19/My_leetcode/tree/master/0869-reordered-power-of-2) |
 | [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
+| [1291-sequential-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
