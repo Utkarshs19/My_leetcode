@@ -641,6 +641,7 @@ all the leetcode questions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/Utkarshs19/My_leetcode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1802,6 +1803,7 @@ all the leetcode questions
 | [1291-sequential-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/Utkarshs19/My_leetcode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
