@@ -273,6 +273,7 @@ all the leetcode questions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Utkarshs19/My_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/Utkarshs19/My_leetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -1749,6 +1750,7 @@ all the leetcode questions
 | [0933-number-of-recent-calls](https://github.com/Utkarshs19/My_leetcode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/Utkarshs19/My_leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
+| [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
@@ -2138,6 +2140,7 @@ all the leetcode questions
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Utkarshs19/My_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
@@ -2262,4 +2265,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
