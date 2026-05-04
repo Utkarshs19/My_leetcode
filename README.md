@@ -7,6 +7,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Utkarshs19/My_leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
@@ -489,6 +490,7 @@ all the leetcode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarshs19/My_leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Utkarshs19/My_leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0090-subsets-ii) |
@@ -929,6 +931,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Utkarshs19/My_leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
