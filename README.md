@@ -1316,6 +1316,7 @@ all the leetcode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Utkarshs19/My_leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
@@ -1904,6 +1905,7 @@ all the leetcode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Utkarshs19/My_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
