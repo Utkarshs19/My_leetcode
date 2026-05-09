@@ -48,17 +48,6 @@ public:
             v.push_back(a);
         }
 
-
-        for(int i=0;i<v.size();i++)
-        {
-            for(int j=0;j<v[i].size();j++)
-            {
-                cout<<v[i][j]<<" ";
-            }
-            cout<<endl;
-        }
-
-
         top=0,bottom=n-1,left=0,right=m-1;
 
         int a=0,b=0;
