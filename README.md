@@ -762,6 +762,7 @@ all the leetcode questions
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Utkarshs19/My_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2765-longest-alternating-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2765-longest-alternating-subarray) |
+| [2784-check-if-array-is-good](https://github.com/Utkarshs19/My_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2831-find-the-longest-equal-subarray) |
@@ -1134,6 +1135,7 @@ all the leetcode questions
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Utkarshs19/My_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2838-sum-of-matrix-after-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2838-sum-of-matrix-after-queries) |
@@ -1530,6 +1532,7 @@ all the leetcode questions
 | [2463-minimum-total-distance-traveled](https://github.com/Utkarshs19/My_leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2784-check-if-array-is-good](https://github.com/Utkarshs19/My_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
