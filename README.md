@@ -538,6 +538,7 @@ all the leetcode questions
 | [0749-shortest-completing-word](https://github.com/Utkarshs19/My_leetcode/tree/master/0749-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Utkarshs19/My_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0764-largest-plus-sign](https://github.com/Utkarshs19/My_leetcode/tree/master/0764-largest-plus-sign) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Utkarshs19/My_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0789-escape-the-ghosts](https://github.com/Utkarshs19/My_leetcode/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -890,6 +891,7 @@ all the leetcode questions
 | [0552-student-attendance-record-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0764-largest-plus-sign](https://github.com/Utkarshs19/My_leetcode/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarshs19/My_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0792-number-of-matching-subsequences) |
