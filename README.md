@@ -222,6 +222,7 @@ all the leetcode questions
 | [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Utkarshs19/My_leetcode/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Utkarshs19/My_leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0657-robot-return-to-origin](https://github.com/Utkarshs19/My_leetcode/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -521,6 +522,7 @@ all the leetcode questions
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
@@ -1028,6 +1030,7 @@ all the leetcode questions
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/Utkarshs19/My_leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -1335,6 +1338,7 @@ all the leetcode questions
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/0696-count-binary-substrings) |
@@ -1486,6 +1490,7 @@ all the leetcode questions
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
