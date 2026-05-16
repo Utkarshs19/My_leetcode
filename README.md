@@ -221,6 +221,7 @@ all the leetcode questions
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Utkarshs19/My_leetcode/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Utkarshs19/My_leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0657-robot-return-to-origin](https://github.com/Utkarshs19/My_leetcode/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
