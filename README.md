@@ -750,6 +750,7 @@ all the leetcode questions
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
@@ -1140,6 +1141,7 @@ all the leetcode questions
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2587-design-memory-allocator](https://github.com/Utkarshs19/My_leetcode/tree/master/2587-design-memory-allocator) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Utkarshs19/My_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -1359,6 +1361,7 @@ all the leetcode questions
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Utkarshs19/My_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -1402,6 +1405,7 @@ all the leetcode questions
 | [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Utkarshs19/My_leetcode/tree/master/2594-minimum-time-to-repair-cars) |
