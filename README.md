@@ -206,6 +206,7 @@ all the leetcode questions
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -1028,6 +1029,7 @@ all the leetcode questions
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -1807,6 +1809,7 @@ all the leetcode questions
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0190-reverse-bits) |
+| [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0461-hamming-distance) |
