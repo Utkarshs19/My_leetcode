@@ -876,6 +876,7 @@ all the leetcode questions
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3682-minimum-index-sum-of-common-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -1221,6 +1222,7 @@ all the leetcode questions
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3682-minimum-index-sum-of-common-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
