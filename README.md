@@ -661,6 +661,7 @@ all the leetcode questions
 | [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Utkarshs19/My_leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/Utkarshs19/My_leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarshs19/My_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -1123,6 +1124,7 @@ all the leetcode questions
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/Utkarshs19/My_leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -1374,6 +1376,7 @@ all the leetcode questions
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Utkarshs19/My_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/Utkarshs19/My_leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1817,6 +1820,7 @@ all the leetcode questions
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/Utkarshs19/My_leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
