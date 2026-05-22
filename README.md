@@ -126,6 +126,7 @@ all the leetcode questions
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/Utkarshs19/My_leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -608,6 +609,7 @@ all the leetcode questions
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/Utkarshs19/My_leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1206-corporate-flight-bookings](https://github.com/Utkarshs19/My_leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -1537,6 +1539,7 @@ all the leetcode questions
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/Utkarshs19/My_leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
