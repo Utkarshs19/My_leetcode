@@ -496,6 +496,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarshs19/My_leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Utkarshs19/My_leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Utkarshs19/My_leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Utkarshs19/My_leetcode/tree/master/0066-plus-one) |
@@ -1381,6 +1382,7 @@ all the leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
