@@ -689,6 +689,7 @@ all the leetcode questions
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshs19/My_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1136,6 +1137,7 @@ all the leetcode questions
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Utkarshs19/My_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -1291,6 +1293,7 @@ all the leetcode questions
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Utkarshs19/My_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
