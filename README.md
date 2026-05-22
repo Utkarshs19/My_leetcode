@@ -536,6 +536,7 @@ all the leetcode questions
 | [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Utkarshs19/My_leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -963,6 +964,7 @@ all the leetcode questions
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Utkarshs19/My_leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Utkarshs19/My_leetcode/tree/master/0909-snakes-and-ladders) |
@@ -1047,6 +1049,7 @@ all the leetcode questions
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0697-degree-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
@@ -1453,6 +1456,7 @@ all the leetcode questions
 ## Hash Function
 |  |
 | ------- |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -1509,6 +1513,7 @@ all the leetcode questions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0720-longest-word-in-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Utkarshs19/My_leetcode/tree/master/0726-number-of-atoms) |
@@ -1666,6 +1671,7 @@ all the leetcode questions
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
@@ -2033,6 +2039,7 @@ all the leetcode questions
 | [0675-cut-off-trees-for-golf-event](https://github.com/Utkarshs19/My_leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Utkarshs19/My_leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
@@ -2273,6 +2280,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
+| [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Utkarshs19/My_leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
