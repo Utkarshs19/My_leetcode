@@ -611,6 +611,7 @@ all the leetcode questions
 | [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1206-corporate-flight-bookings](https://github.com/Utkarshs19/My_leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1222-remove-covered-intervals](https://github.com/Utkarshs19/My_leetcode/tree/master/1222-remove-covered-intervals) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -1093,6 +1094,7 @@ all the leetcode questions
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Utkarshs19/My_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1226,6 +1228,7 @@ all the leetcode questions
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Utkarshs19/My_leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
@@ -1401,6 +1404,7 @@ all the leetcode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
