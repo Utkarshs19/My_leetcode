@@ -34,6 +34,7 @@ all the leetcode questions
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1041-robot-bounded-in-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1085-sum-of-digits-in-the-minimum-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1103-distribute-candies-to-people](https://github.com/Utkarshs19/My_leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1175-prime-arrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1175-prime-arrangements) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -598,6 +599,7 @@ all the leetcode questions
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
+| [1085-sum-of-digits-in-the-minimum-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
