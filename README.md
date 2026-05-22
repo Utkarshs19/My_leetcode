@@ -412,6 +412,7 @@ all the leetcode questions
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Utkarshs19/My_leetcode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
+| [3853-merge-close-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/3853-merge-close-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1228,6 +1229,7 @@ all the leetcode questions
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Utkarshs19/My_leetcode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Utkarshs19/My_leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/3853-merge-close-characters) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
