@@ -19,9 +19,7 @@ public:
         int ans=0;
         for(int i=0;i<v.size();i++)
         {
-            cout<<v[i]<<"  ";
             ans+=((i/9)+1)*v[i];
-            cout<<ans<<endl;
         }
 
         return ans;
