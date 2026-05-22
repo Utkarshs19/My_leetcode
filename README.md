@@ -370,6 +370,7 @@ all the leetcode questions
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Utkarshs19/My_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [2950-number-of-divisible-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1185,6 +1186,7 @@ all the leetcode questions
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [2950-number-of-divisible-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
@@ -1267,6 +1269,7 @@ all the leetcode questions
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Utkarshs19/My_leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2950-number-of-divisible-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Utkarshs19/My_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Utkarshs19/My_leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -1514,6 +1517,7 @@ all the leetcode questions
 | [2483-minimum-penalty-for-a-shop](https://github.com/Utkarshs19/My_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [2950-number-of-divisible-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Utkarshs19/My_leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
