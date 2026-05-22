@@ -159,6 +159,7 @@ all the leetcode questions
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -344,6 +345,7 @@ all the leetcode questions
 | [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
+| [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-naming-a-company](https://github.com/Utkarshs19/My_leetcode/tree/master/2306-naming-a-company) |
@@ -1158,6 +1160,7 @@ all the leetcode questions
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
+| [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-naming-a-company](https://github.com/Utkarshs19/My_leetcode/tree/master/2306-naming-a-company) |
@@ -1260,6 +1263,7 @@ all the leetcode questions
 | [2013-detect-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/2013-detect-squares) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -1588,6 +1592,7 @@ all the leetcode questions
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Utkarshs19/My_leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
