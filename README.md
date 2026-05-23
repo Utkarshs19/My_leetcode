@@ -2015,6 +2015,7 @@ all the leetcode questions
 | [0237-delete-node-in-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
+| [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
