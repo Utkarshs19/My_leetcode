@@ -1418,6 +1418,7 @@ all the leetcode questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0270-closest-binary-search-tree-value](https://github.com/Utkarshs19/My_leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Utkarshs19/My_leetcode/tree/master/0441-arranging-coins) |
@@ -1638,6 +1639,7 @@ all the leetcode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0270-closest-binary-search-tree-value](https://github.com/Utkarshs19/My_leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Utkarshs19/My_leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1690,6 +1692,7 @@ all the leetcode questions
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0270-closest-binary-search-tree-value](https://github.com/Utkarshs19/My_leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Utkarshs19/My_leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -1783,6 +1786,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/Utkarshs19/My_leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -1792,6 +1796,7 @@ all the leetcode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0270-closest-binary-search-tree-value](https://github.com/Utkarshs19/My_leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Utkarshs19/My_leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
