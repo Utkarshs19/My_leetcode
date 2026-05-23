@@ -38,7 +38,6 @@ public:
 
             if(m1.count(region1) && m1.count(region2))
             {
-                cout<<i.first<<"  "<<size<<"  "<<cnt<<endl;
                 if(size>cnt)
                 {
                     size=cnt;
