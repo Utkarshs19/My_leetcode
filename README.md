@@ -218,6 +218,7 @@ all the leetcode questions
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -1065,6 +1066,7 @@ all the leetcode questions
 | [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0359-logger-rate-limiter](https://github.com/Utkarshs19/My_leetcode/tree/master/0359-logger-rate-limiter) |
 | [0409-longest-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -1310,6 +1312,7 @@ all the leetcode questions
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Utkarshs19/My_leetcode/tree/master/0904-fruit-into-baskets) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
