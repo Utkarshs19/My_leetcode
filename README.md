@@ -767,6 +767,7 @@ all the leetcode questions
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Utkarshs19/My_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
+| [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
 | [2463-minimum-total-distance-traveled](https://github.com/Utkarshs19/My_leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -1697,6 +1698,7 @@ all the leetcode questions
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
+| [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -1791,6 +1793,7 @@ all the leetcode questions
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2440-create-components-with-same-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2440-create-components-with-same-value) |
+| [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Utkarshs19/My_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -1851,6 +1854,7 @@ all the leetcode questions
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Utkarshs19/My_leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Design
@@ -2171,6 +2175,7 @@ all the leetcode questions
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Utkarshs19/My_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Utkarshs19/My_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
