@@ -869,6 +869,7 @@ all the leetcode questions
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Utkarshs19/My_leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -1431,6 +1432,7 @@ all the leetcode questions
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Utkarshs19/My_leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Utkarshs19/My_leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
