@@ -37,6 +37,7 @@ all the leetcode questions
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1103-distribute-candies-to-people](https://github.com/Utkarshs19/My_leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1175-prime-arrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1175-prime-arrangements) |
+| [1180-count-substrings-with-only-one-distinct-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1289-day-of-the-week](https://github.com/Utkarshs19/My_leetcode/tree/master/1289-day-of-the-week) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Utkarshs19/My_leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -278,6 +279,7 @@ all the leetcode questions
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1180-count-substrings-with-only-one-distinct-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
