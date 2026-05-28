@@ -527,6 +527,7 @@ all the leetcode questions
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0228-summary-ranges) |
 | [0243-shortest-word-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0243-shortest-word-distance) |
+| [0256-paint-house](https://github.com/Utkarshs19/My_leetcode/tree/master/0256-paint-house) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -922,6 +923,7 @@ all the leetcode questions
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
+| [0256-paint-house](https://github.com/Utkarshs19/My_leetcode/tree/master/0256-paint-house) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
