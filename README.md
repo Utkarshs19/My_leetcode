@@ -531,6 +531,7 @@ all the leetcode questions
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1076,6 +1077,7 @@ all the leetcode questions
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0359-logger-rate-limiter](https://github.com/Utkarshs19/My_leetcode/tree/master/0359-logger-rate-limiter) |
+| [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0409-longest-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -1888,6 +1890,7 @@ all the leetcode questions
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0359-logger-rate-limiter](https://github.com/Utkarshs19/My_leetcode/tree/master/0359-logger-rate-limiter) |
+| [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/0677-map-sum-pairs) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
@@ -2040,6 +2043,7 @@ all the leetcode questions
 ## Queue
 |  |
 | ------- |
+| [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Utkarshs19/My_leetcode/tree/master/0933-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -2056,6 +2060,7 @@ all the leetcode questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Utkarshs19/My_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
