@@ -1,41 +1,35 @@
 class PhoneDirectory {
 public:
-    queue<int> q;
-    vector<int> v;
+    map<int,int> m;
     PhoneDirectory(int maxNumbers) {
-        
-        v.resize(maxNumbers,0);
         for(int i=0;i<maxNumbers;i++)
         {
-            q.push(i);
+            m[i]=-1;
         }
-
     }
     
     int get() {
         
-        if(!q.size())return -1;
+        if(!m.size())return -1;
+        
+        int x=m.begin()->first;
 
-        int x=q.front();
-        v[x]=1;
-        q.pop();
+        m.erase(x);
 
         return x;
+
     }
     
     bool check(int number) {
         
-        return (v[number]==0)?true:false;
+        if(m.count(number))return true;
+        return false;
 
     }
     
     void release(int number) {
         
-        if(v[number])
-        {
-            v[number]=0;
-            q.push(number);
-        }
+        m[number]=-1;
 
     }
 };
