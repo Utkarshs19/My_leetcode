@@ -157,6 +157,7 @@ all the leetcode questions
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Utkarshs19/My_leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utkarshs19/My_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -739,6 +740,7 @@ all the leetcode questions
 | [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utkarshs19/My_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
