@@ -181,6 +181,7 @@ all the leetcode questions
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Utkarshs19/My_leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3151-minimum-processing-time](https://github.com/Utkarshs19/My_leetcode/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3205-maximum-array-hopping-score-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -454,6 +455,7 @@ all the leetcode questions
 | [2390-removing-stars-from-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
+| [3205-maximum-array-hopping-score-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -834,6 +836,7 @@ all the leetcode questions
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Utkarshs19/My_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3205-maximum-array-hopping-score-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Utkarshs19/My_leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -980,6 +983,7 @@ all the leetcode questions
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3205-maximum-array-hopping-score-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3366-minimum-array-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/3366-minimum-array-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -2039,6 +2043,7 @@ all the leetcode questions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3114-beautiful-towers-i) |
+| [3205-maximum-array-hopping-score-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
