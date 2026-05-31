@@ -217,6 +217,7 @@ all the leetcode questions
 | [0208-implement-trie-prefix-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0243-shortest-word-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0243-shortest-word-distance) |
+| [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
@@ -531,6 +532,7 @@ all the leetcode questions
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0228-summary-ranges) |
 | [0243-shortest-word-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0243-shortest-word-distance) |
+| [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0256-paint-house](https://github.com/Utkarshs19/My_leetcode/tree/master/0256-paint-house) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1080,6 +1082,7 @@ all the leetcode questions
 | [0146-lru-cache](https://github.com/Utkarshs19/My_leetcode/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
