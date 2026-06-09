@@ -1749,6 +1749,7 @@ all the leetcode questions
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2247,6 +2248,7 @@ all the leetcode questions
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
+| [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
@@ -2412,6 +2414,7 @@ all the leetcode questions
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 ## Union-Find
 |  |
 | ------- |
