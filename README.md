@@ -550,6 +550,7 @@ all the leetcode questions
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/0485-max-consecutive-ones) |
+| [0490-the-maze](https://github.com/Utkarshs19/My_leetcode/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Utkarshs19/My_leetcode/tree/master/0502-ipo) |
@@ -1013,6 +1014,7 @@ all the leetcode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
+| [0490-the-maze](https://github.com/Utkarshs19/My_leetcode/tree/master/0490-the-maze) |
 | [0498-diagonal-traverse](https://github.com/Utkarshs19/My_leetcode/tree/master/0498-diagonal-traverse) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Utkarshs19/My_leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
@@ -1774,6 +1776,7 @@ all the leetcode questions
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0472-concatenated-words) |
+| [0490-the-maze](https://github.com/Utkarshs19/My_leetcode/tree/master/0490-the-maze) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Utkarshs19/My_leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0565-array-nesting](https://github.com/Utkarshs19/My_leetcode/tree/master/0565-array-nesting) |
@@ -2169,6 +2172,7 @@ all the leetcode questions
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0490-the-maze](https://github.com/Utkarshs19/My_leetcode/tree/master/0490-the-maze) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Utkarshs19/My_leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0582-kill-process](https://github.com/Utkarshs19/My_leetcode/tree/master/0582-kill-process) |
 | [0617-merge-two-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0617-merge-two-binary-trees) |
