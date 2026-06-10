@@ -25,10 +25,6 @@ public:
 
         new_Intervals.push_back({start,end});
 
-        for(int i=0;i<new_Intervals.size();i++)
-        {
-            cout<<new_Intervals[i][0]<<"   "<<new_Intervals[i][1]<<endl;
-        }
 
         vector<int> s,e;
 
