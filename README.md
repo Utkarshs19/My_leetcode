@@ -1715,6 +1715,7 @@ all the leetcode questions
 | [0652-find-duplicate-subtrees](https://github.com/Utkarshs19/My_leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Utkarshs19/My_leetcode/tree/master/0690-employee-importance) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -1790,6 +1791,7 @@ all the leetcode questions
 | [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1889,6 +1891,7 @@ all the leetcode questions
 | [0617-merge-two-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Utkarshs19/My_leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -2183,6 +2186,7 @@ all the leetcode questions
 | [0694-number-of-distinct-islands](https://github.com/Utkarshs19/My_leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Utkarshs19/My_leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Utkarshs19/My_leetcode/tree/master/0721-accounts-merge) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/Utkarshs19/My_leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Utkarshs19/My_leetcode/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/Utkarshs19/My_leetcode/tree/master/0765-couples-holding-hands) |
