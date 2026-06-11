@@ -221,6 +221,7 @@ all the leetcode questions
 | [0243-shortest-word-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0243-shortest-word-distance) |
 | [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
+| [0267-palindrome-permutation-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -1096,6 +1097,7 @@ all the leetcode questions
 | [0208-implement-trie-prefix-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0266-palindrome-permutation) |
+| [0267-palindrome-permutation-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -2351,6 +2353,7 @@ all the leetcode questions
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
+| [0267-palindrome-permutation-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
