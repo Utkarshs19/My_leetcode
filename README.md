@@ -705,6 +705,7 @@ all the leetcode questions
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1730-shortest-path-to-get-food](https://github.com/Utkarshs19/My_leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1751-slowest-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1751-slowest-key) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
@@ -1039,6 +1040,7 @@ all the leetcode questions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1730-shortest-path-to-get-food](https://github.com/Utkarshs19/My_leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2235,6 +2237,7 @@ all the leetcode questions
 | [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1730-shortest-path-to-get-food](https://github.com/Utkarshs19/My_leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1765-map-of-highest-peak](https://github.com/Utkarshs19/My_leetcode/tree/master/1765-map-of-highest-peak) |
