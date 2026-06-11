@@ -1528,6 +1528,7 @@ all the leetcode questions
 | [3488-closest-equal-element-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
@@ -2272,6 +2273,7 @@ all the leetcode questions
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
+| [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3902-zigzag-level-sum-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3902-zigzag-level-sum-of-binary-tree) |
 ## Union Find
@@ -2440,6 +2442,7 @@ all the leetcode questions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
+| [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 ## Union-Find
 |  |
 | ------- |
