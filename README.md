@@ -38,6 +38,7 @@ all the leetcode questions
 | [1103-distribute-candies-to-people](https://github.com/Utkarshs19/My_leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1175-prime-arrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1175-prime-arrangements) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
+| [1215-stepping-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1215-stepping-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Utkarshs19/My_leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1289-day-of-the-week](https://github.com/Utkarshs19/My_leetcode/tree/master/1289-day-of-the-week) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Utkarshs19/My_leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -2208,6 +2209,7 @@ all the leetcode questions
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1197-minimum-knight-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/1197-minimum-knight-moves) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1215-stepping-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1215-stepping-numbers) |
 | [1257-smallest-common-region](https://github.com/Utkarshs19/My_leetcode/tree/master/1257-smallest-common-region) |
 | [1267-count-servers-that-communicate](https://github.com/Utkarshs19/My_leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Utkarshs19/My_leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -2345,6 +2347,7 @@ all the leetcode questions
 | [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Utkarshs19/My_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1215-stepping-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1215-stepping-numbers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
