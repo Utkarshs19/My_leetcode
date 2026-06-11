@@ -1762,6 +1762,7 @@ all the leetcode questions
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
+| [3902-zigzag-level-sum-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3902-zigzag-level-sum-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1923,6 +1924,7 @@ all the leetcode questions
 | [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3902-zigzag-level-sum-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3902-zigzag-level-sum-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -2271,6 +2273,7 @@ all the leetcode questions
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3902-zigzag-level-sum-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3902-zigzag-level-sum-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
