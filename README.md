@@ -1760,6 +1760,7 @@ all the leetcode questions
 | [2467-most-profitable-path-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -1866,6 +1867,7 @@ all the leetcode questions
 | [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/Utkarshs19/My_leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -1927,6 +1929,7 @@ all the leetcode questions
 | [2445-number-of-nodes-with-value-one](https://github.com/Utkarshs19/My_leetcode/tree/master/2445-number-of-nodes-with-value-one) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3902-zigzag-level-sum-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3902-zigzag-level-sum-of-binary-tree) |
 ## Design
 |  |
