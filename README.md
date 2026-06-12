@@ -90,6 +90,7 @@ all the leetcode questions
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3567-convert-date-to-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-convert-date-to-binary) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Utkarshs19/My_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Utkarshs19/My_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1765,6 +1766,7 @@ all the leetcode questions
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3902-zigzag-level-sum-of-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3902-zigzag-level-sum-of-binary-tree) |
 ## Depth-First Search
@@ -1876,6 +1878,7 @@ all the leetcode questions
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3493-properties-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
