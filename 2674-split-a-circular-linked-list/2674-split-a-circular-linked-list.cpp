@@ -28,10 +28,9 @@ public:
         }
         else
         x=len/2;
-        
+
         len=len-x;
         ListNode* first=list;
-       
         ListNode* prev=nullptr;
 
         while(x>0)
@@ -40,10 +39,7 @@ public:
             first=first->next;
             x--;
         }
-
-        
         prev->next=list;
-
         ans.push_back(list);
 
         ListNode* t=first;
@@ -56,14 +52,8 @@ public:
         }
 
         prev->next=t;
-
         ans.push_back(t);
 
-
-
-        
-
-        return ans;
-        
+       return ans;        
     }
 };
