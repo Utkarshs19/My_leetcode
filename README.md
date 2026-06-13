@@ -1468,6 +1468,7 @@ all the leetcode questions
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2674-split-a-circular-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/2674-split-a-circular-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Utkarshs19/My_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -2120,6 +2121,7 @@ all the leetcode questions
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Utkarshs19/My_leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
+| [2674-split-a-circular-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/2674-split-a-circular-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
