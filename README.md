@@ -833,6 +833,7 @@ all the leetcode questions
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3031-construct-product-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3031-construct-product-matrix) |
@@ -1000,6 +1001,7 @@ all the leetcode questions
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1769,6 +1771,7 @@ all the leetcode questions
 | [2641-cousins-in-binary-tree-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1878,6 +1881,7 @@ all the leetcode questions
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/Utkarshs19/My_leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Utkarshs19/My_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Utkarshs19/My_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshs19/My_leetcode/tree/master/3310-remove-methods-from-project) |
