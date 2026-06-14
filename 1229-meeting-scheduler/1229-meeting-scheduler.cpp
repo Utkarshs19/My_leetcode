@@ -9,16 +9,15 @@ public:
         int n=slots1.size();
         int m=slots2.size();
 
-        while(i<n && slots1[i][1]<slots2[j][0])i++;
+        while(i<n && slots1[i][1]<slots2[0][0])i++;
 
-        vector<vector<int>> common;
         int start=-1,end=1e9;
         while(i<n && j<m)
         {
              start=max({start,slots1[i][0],slots2[j][0]});
              end=min(slots1[i][1],slots2[j][1]);
 
-            common.push_back({start,end});
+                if(end-start>=duration)return {start,start+duration};
             if(end==slots1[i][1]){
             start=slots1[i][1];
                 i++;
@@ -28,12 +27,6 @@ public:
                 slots2[j][1];
                 j++;
             }
-        }
-
-        for(int i=0;i<common.size();i++)
-        {
-            if(common[i][1]-common[i][0]>=duration)
-            return {common[i][0],common[i][0]+duration};
         }
 
         return {};
