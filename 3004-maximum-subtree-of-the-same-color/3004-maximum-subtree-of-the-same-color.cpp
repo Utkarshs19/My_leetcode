@@ -35,6 +35,7 @@ public:
         for(int i=0;i<edges.size();i++)
         {
             adj[edges[i][0]].push_back(edges[i][1]);
+            adj[edges[i][1]].push_back(edges[i][0]);
         }
         flag.resize(n,1);
         vector<int> vis(n,0);
