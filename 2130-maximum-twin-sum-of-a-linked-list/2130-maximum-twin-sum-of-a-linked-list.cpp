@@ -44,17 +44,17 @@ public:
             fast=fast->next->next;
         }
         slow=reverse_list(slow);
-        int mini=INT_MIN;
+        int maxi=INT_MIN;
         while(slow)
         {
-            if(mini<(slow->val+head->val))
-            mini=slow->val+head->val;
+            if(maxi<(slow->val+head->val))
+            maxi=slow->val+head->val;
             slow=slow->next;
             head=head->next;
 
         }
 
-        return mini;
+        return maxi;
 
         
         
