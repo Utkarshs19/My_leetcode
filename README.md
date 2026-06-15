@@ -725,6 +725,7 @@ all the leetcode questions
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
+| [1868-product-of-two-run-length-encoded-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1868-product-of-two-run-length-encoded-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Utkarshs19/My_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1467,6 +1468,7 @@ all the leetcode questions
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Utkarshs19/My_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Utkarshs19/My_leetcode/tree/master/1861-rotating-the-box) |
+| [1868-product-of-two-run-length-encoded-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1868-product-of-two-run-length-encoded-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1898-maximum-number-of-removable-characters) |
