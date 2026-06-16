@@ -552,6 +552,7 @@ all the leetcode questions
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
+| [0457-circular-array-loop](https://github.com/Utkarshs19/My_leetcode/tree/master/0457-circular-array-loop) |
 | [0472-concatenated-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
@@ -1121,6 +1122,7 @@ all the leetcode questions
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Utkarshs19/My_leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0457-circular-array-loop](https://github.com/Utkarshs19/My_leetcode/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0554-brick-wall](https://github.com/Utkarshs19/My_leetcode/tree/master/0554-brick-wall) |
 | [0582-kill-process](https://github.com/Utkarshs19/My_leetcode/tree/master/0582-kill-process) |
@@ -1457,6 +1459,7 @@ all the leetcode questions
 | [0165-compare-version-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0457-circular-array-loop](https://github.com/Utkarshs19/My_leetcode/tree/master/0457-circular-array-loop) |
 | [0481-magical-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Utkarshs19/My_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
