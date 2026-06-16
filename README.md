@@ -541,6 +541,7 @@ all the leetcode questions
 | [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0256-paint-house](https://github.com/Utkarshs19/My_leetcode/tree/master/0256-paint-house) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
@@ -1024,6 +1025,7 @@ all the leetcode questions
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
@@ -2212,6 +2214,7 @@ all the leetcode questions
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
