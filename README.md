@@ -14,6 +14,7 @@ all the leetcode questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
+| [0296-best-meeting-point](https://github.com/Utkarshs19/My_leetcode/tree/master/0296-best-meeting-point) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Utkarshs19/My_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Utkarshs19/My_leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
@@ -540,6 +541,7 @@ all the leetcode questions
 | [0243-shortest-word-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0243-shortest-word-distance) |
 | [0249-group-shifted-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0249-group-shifted-strings) |
 | [0256-paint-house](https://github.com/Utkarshs19/My_leetcode/tree/master/0256-paint-house) |
+| [0296-best-meeting-point](https://github.com/Utkarshs19/My_leetcode/tree/master/0296-best-meeting-point) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1024,6 +1026,7 @@ all the leetcode questions
 | [0048-rotate-image](https://github.com/Utkarshs19/My_leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0221-maximal-square) |
+| [0296-best-meeting-point](https://github.com/Utkarshs19/My_leetcode/tree/master/0296-best-meeting-point) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1624,6 +1627,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0296-best-meeting-point](https://github.com/Utkarshs19/My_leetcode/tree/master/0296-best-meeting-point) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0472-concatenated-words) |
