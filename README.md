@@ -834,6 +834,7 @@ all the leetcode questions
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1481,6 +1482,7 @@ all the leetcode questions
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2674-split-a-circular-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/2674-split-a-circular-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Utkarshs19/My_leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -1533,6 +1535,7 @@ all the leetcode questions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -2050,6 +2053,7 @@ all the leetcode questions
 | [2765-longest-alternating-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2765-longest-alternating-subarray) |
 | [2928-distribute-candies-among-children-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2998-count-symmetric-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3132-find-the-integer-added-to-array-ii) |
