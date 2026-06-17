@@ -634,6 +634,7 @@ all the leetcode questions
 | [1041-available-captures-for-rook](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Utkarshs19/My_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1060-missing-element-in-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
@@ -1515,6 +1516,7 @@ all the leetcode questions
 | [0911-online-election](https://github.com/Utkarshs19/My_leetcode/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/Utkarshs19/My_leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utkarshs19/My_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1060-missing-element-in-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1213-intersection-of-three-sorted-arrays) |
