@@ -645,6 +645,7 @@ all the leetcode questions
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1182-shortest-distance-to-target-color](https://github.com/Utkarshs19/My_leetcode/tree/master/1182-shortest-distance-to-target-color) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/Utkarshs19/My_leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -980,6 +981,7 @@ all the leetcode questions
 | [1081-video-stitching](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1182-shortest-distance-to-target-color](https://github.com/Utkarshs19/My_leetcode/tree/master/1182-shortest-distance-to-target-color) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1519,6 +1521,7 @@ all the leetcode questions
 | [1060-missing-element-in-sorted-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
+| [1182-shortest-distance-to-target-color](https://github.com/Utkarshs19/My_leetcode/tree/master/1182-shortest-distance-to-target-color) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/Utkarshs19/My_leetcode/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Utkarshs19/My_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
