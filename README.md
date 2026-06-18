@@ -546,6 +546,7 @@ all the leetcode questions
 | [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0346-moving-average-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
@@ -1977,6 +1978,7 @@ all the leetcode questions
 | [0211-design-add-and-search-words-data-structure](https://github.com/Utkarshs19/My_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Utkarshs19/My_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Utkarshs19/My_leetcode/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0676-implement-magic-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -2133,6 +2135,7 @@ all the leetcode questions
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Utkarshs19/My_leetcode/tree/master/0933-number-of-recent-calls) |
@@ -2430,6 +2433,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Utkarshs19/My_leetcode/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/Utkarshs19/My_leetcode/tree/master/0933-number-of-recent-calls) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
