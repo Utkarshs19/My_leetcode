@@ -1211,6 +1211,7 @@ all the leetcode questions
 | [1640-check-array-formation-through-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1660-correct-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1695-maximum-erasure-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1783,6 +1784,7 @@ all the leetcode questions
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1660-correct-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
@@ -1883,6 +1885,7 @@ all the leetcode questions
 | [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1660-correct-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
@@ -1964,6 +1967,7 @@ all the leetcode questions
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1660-correct-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Utkarshs19/My_leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -2295,6 +2299,7 @@ all the leetcode questions
 | [1559-detect-cycles-in-2d-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1660-correct-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1730-shortest-path-to-get-food](https://github.com/Utkarshs19/My_leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
