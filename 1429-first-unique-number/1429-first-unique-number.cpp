@@ -1,6 +1,5 @@
 class FirstUnique {
 public:
-    unordered_set<int> st;
     unordered_map<int,int> m;
     list<int> l;
     int i=0;
@@ -9,13 +8,10 @@ public:
         {
             m[i]++;
         }
-        for(auto i:m)
-        {
-            if(i.second==1)st.insert(i.first);
-        }
+        
         for(int i=0;i<nums.size();i++)
         {
-            if(st.count(nums[i]))
+            if(m[nums[i]]==1)
             {
                 l.push_back(nums[i]);
             }
@@ -24,7 +20,7 @@ public:
     
     int showFirstUnique() {
 
-       while(!l.empty() && !st.count(l.front()))
+       while(!l.empty() && m[l.front()]>1)
        {
             l.pop_front();
        }
@@ -42,10 +38,8 @@ public:
        if(m[value]==1)
        {
         l.push_back(value);
-        st.insert(value);
        }
-       else if(m[value]>1)
-        st.erase(value);
+
 
     }
 };
