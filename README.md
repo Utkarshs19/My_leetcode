@@ -200,6 +200,7 @@ all the leetcode questions
 | [3675-minimum-operations-to-transform-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Utkarshs19/My_leetcode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -940,6 +941,7 @@ all the leetcode questions
 | [3742-maximum-path-score-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Utkarshs19/My_leetcode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Utkarshs19/My_leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
@@ -1460,6 +1462,7 @@ all the leetcode questions
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Utkarshs19/My_leetcode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Two Pointers
@@ -1737,6 +1740,7 @@ all the leetcode questions
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Utkarshs19/My_leetcode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Utkarshs19/My_leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
