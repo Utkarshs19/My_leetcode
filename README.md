@@ -682,6 +682,7 @@ all the leetcode questions
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1427-perform-string-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/1427-perform-string-shifts) |
+| [1429-first-unique-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1429-first-unique-number) |
 | [1436-destination-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1436-destination-city) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -1198,6 +1199,7 @@ all the leetcode questions
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1429-first-unique-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1429-first-unique-number) |
 | [1436-destination-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1436-destination-city) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -2003,6 +2005,7 @@ all the leetcode questions
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1429-first-unique-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1429-first-unique-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/Utkarshs19/My_leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1600-throne-inheritance](https://github.com/Utkarshs19/My_leetcode/tree/master/1600-throne-inheritance) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
@@ -2152,6 +2155,7 @@ all the leetcode questions
 | [0860-design-circular-queue](https://github.com/Utkarshs19/My_leetcode/tree/master/0860-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Utkarshs19/My_leetcode/tree/master/0933-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1429-first-unique-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1429-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -2449,6 +2453,7 @@ all the leetcode questions
 | [0346-moving-average-from-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Utkarshs19/My_leetcode/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/Utkarshs19/My_leetcode/tree/master/0933-number-of-recent-calls) |
+| [1429-first-unique-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1429-first-unique-number) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Shortest Path
