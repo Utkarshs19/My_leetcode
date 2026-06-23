@@ -753,6 +753,7 @@ all the leetcode questions
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Utkarshs19/My_leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1993-operations-on-tree) |
@@ -1005,6 +1006,7 @@ all the leetcode questions
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/Utkarshs19/My_leetcode/tree/master/1871-jump-game-vii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1075,6 +1077,7 @@ all the leetcode questions
 | [1914-cyclically-rotating-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1992-find-all-groups-of-farmland](https://github.com/Utkarshs19/My_leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
