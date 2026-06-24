@@ -768,6 +768,7 @@ all the leetcode questions
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utkarshs19/My_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -1240,6 +1241,7 @@ all the leetcode questions
 | [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
@@ -1704,6 +1706,7 @@ all the leetcode questions
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Utkarshs19/My_leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2126-destroying-asteroids](https://github.com/Utkarshs19/My_leetcode/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
@@ -2083,6 +2086,7 @@ all the leetcode questions
 | [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/Utkarshs19/My_leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2306-naming-a-company](https://github.com/Utkarshs19/My_leetcode/tree/master/2306-naming-a-company) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -2554,6 +2558,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/0002-add-two-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
