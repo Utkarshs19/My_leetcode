@@ -573,6 +573,7 @@ all the leetcode questions
 | [0582-kill-process](https://github.com/Utkarshs19/My_leetcode/tree/master/0582-kill-process) |
 | [0611-valid-triangle-number](https://github.com/Utkarshs19/My_leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/0621-task-scheduler) |
+| [0638-shopping-offers](https://github.com/Utkarshs19/My_leetcode/tree/master/0638-shopping-offers) |
 | [0654-maximum-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0666-path-sum-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/0666-path-sum-iv) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Utkarshs19/My_leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -976,6 +977,7 @@ all the leetcode questions
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0638-shopping-offers](https://github.com/Utkarshs19/My_leetcode/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/Utkarshs19/My_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0764-largest-plus-sign](https://github.com/Utkarshs19/My_leetcode/tree/master/0764-largest-plus-sign) |
@@ -2051,6 +2053,7 @@ all the leetcode questions
 | [0461-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/0477-total-hamming-distance) |
+| [0638-shopping-offers](https://github.com/Utkarshs19/My_leetcode/tree/master/0638-shopping-offers) |
 | [0672-bulb-switcher-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -2443,6 +2446,7 @@ all the leetcode questions
 | [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/Utkarshs19/My_leetcode/tree/master/0638-shopping-offers) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Utkarshs19/My_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -2504,6 +2508,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/Utkarshs19/My_leetcode/tree/master/0638-shopping-offers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -2573,6 +2578,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0638-shopping-offers](https://github.com/Utkarshs19/My_leetcode/tree/master/0638-shopping-offers) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Interactive
