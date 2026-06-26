@@ -361,6 +361,7 @@ all the leetcode questions
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
@@ -1016,6 +1017,7 @@ all the leetcode questions
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1635,6 +1637,7 @@ all the leetcode questions
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2145-count-the-hidden-sequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2145-count-the-hidden-sequences) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
