@@ -349,6 +349,7 @@ all the leetcode questions
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Utkarshs19/My_leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
@@ -756,6 +757,7 @@ all the leetcode questions
 | [1929-concatenation-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1929-concatenation-of-array) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1958-check-if-move-is-legal](https://github.com/Utkarshs19/My_leetcode/tree/master/1958-check-if-move-is-legal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Utkarshs19/My_leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
