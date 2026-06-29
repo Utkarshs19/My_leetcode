@@ -88,6 +88,7 @@ all the leetcode questions
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -1479,6 +1480,7 @@ all the leetcode questions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Utkarshs19/My_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -2145,6 +2147,7 @@ all the leetcode questions
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3314-most-frequent-prime](https://github.com/Utkarshs19/My_leetcode/tree/master/3314-most-frequent-prime) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -2506,6 +2509,7 @@ all the leetcode questions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Minimum Spanning Tree
 |  |
@@ -2551,6 +2555,7 @@ all the leetcode questions
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
