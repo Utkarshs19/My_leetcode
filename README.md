@@ -633,6 +633,7 @@ all the leetcode questions
 | [0962-maximum-width-ramp](https://github.com/Utkarshs19/My_leetcode/tree/master/0962-maximum-width-ramp) |
 | [0965-unique-email-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Utkarshs19/My_leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [0986-interval-list-intersections](https://github.com/Utkarshs19/My_leetcode/tree/master/0986-interval-list-intersections) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/Utkarshs19/My_leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -1522,6 +1523,7 @@ all the leetcode questions
 | [0825-friends-of-appropriate-ages](https://github.com/Utkarshs19/My_leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-expressive-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0827-expressive-words) |
 | [0962-maximum-width-ramp](https://github.com/Utkarshs19/My_leetcode/tree/master/0962-maximum-width-ramp) |
+| [0986-interval-list-intersections](https://github.com/Utkarshs19/My_leetcode/tree/master/0986-interval-list-intersections) |
 | [1009-pancake-sorting](https://github.com/Utkarshs19/My_leetcode/tree/master/1009-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1229-meeting-scheduler](https://github.com/Utkarshs19/My_leetcode/tree/master/1229-meeting-scheduler) |
@@ -2631,4 +2633,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [1286-iterator-for-combination](https://github.com/Utkarshs19/My_leetcode/tree/master/1286-iterator-for-combination) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Utkarshs19/My_leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
