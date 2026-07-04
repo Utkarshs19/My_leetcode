@@ -733,6 +733,7 @@ all the leetcode questions
 | [1640-check-array-formation-through-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1642-furthest-building-you-can-reach](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1695-maximum-erasure-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1695-maximum-erasure-value) |
+| [1696-jump-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1696-jump-game-vi) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Utkarshs19/My_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Utkarshs19/My_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1024,6 +1025,7 @@ all the leetcode questions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1668-maximum-repeating-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1696-jump-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1696-jump-game-vi) |
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/Utkarshs19/My_leetcode/tree/master/1871-jump-game-vii) |
@@ -1473,6 +1475,7 @@ all the leetcode questions
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Utkarshs19/My_leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [1696-jump-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1696-jump-game-vi) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1834-single-threaded-cpu](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-single-threaded-cpu) |
@@ -2213,6 +2216,7 @@ all the leetcode questions
 | [0987-reveal-cards-in-increasing-order](https://github.com/Utkarshs19/My_leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1429-first-unique-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1429-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1696-jump-game-vi) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Utkarshs19/My_leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3827-implement-router](https://github.com/Utkarshs19/My_leetcode/tree/master/3827-implement-router) |
@@ -2432,6 +2436,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1696-jump-game-vi) |
 ## Graph
 |  |
 | ------- |
