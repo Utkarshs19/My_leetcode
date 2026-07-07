@@ -2,25 +2,19 @@ class Solution {
 public:
     long long sumAndMultiply(int n) {
 
-        if(n==0)return 0;
-
-        long long sum=0;
-
+        long long x=0,sum=0;
         string str=to_string(n);
-        string s="";
-
         for(int i=0;i<str.length();i++)
         {
-            if(str[i]!='0')
+            int y=str[i]-'0';
+            if(y!=0)
             {
-                sum+=(str[i]-'0');
-                s+=str[i];
+                sum+=y;
+                x=x*10+y;
             }
+            n=n/10;
         }
-
-        long long no=stoi(s);
-
-        return no*sum;
+        return sum*x;
         
     }
 };
