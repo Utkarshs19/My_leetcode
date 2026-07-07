@@ -103,6 +103,7 @@ all the leetcode questions
 | [3702-maximum-subarray-with-equal-products](https://github.com/Utkarshs19/My_leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Utkarshs19/My_leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/3859-maximum-product-of-two-digits) |
