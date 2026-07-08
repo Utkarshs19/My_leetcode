@@ -104,6 +104,7 @@ all the leetcode questions
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Utkarshs19/My_leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -438,6 +439,7 @@ all the leetcode questions
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -1690,6 +1692,7 @@ all the leetcode questions
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Utkarshs19/My_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
