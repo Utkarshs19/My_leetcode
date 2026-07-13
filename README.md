@@ -817,6 +817,7 @@ all the leetcode questions
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1546,6 +1547,7 @@ all the leetcode questions
 | [1923-sentence-similarity-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Utkarshs19/My_leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
@@ -1600,6 +1602,7 @@ all the leetcode questions
 | [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1759,6 +1762,7 @@ all the leetcode questions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Utkarshs19/My_leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
