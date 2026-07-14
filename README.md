@@ -567,6 +567,7 @@ all the leetcode questions
 | [0379-design-phone-directory](https://github.com/Utkarshs19/My_leetcode/tree/master/0379-design-phone-directory) |
 | [0399-evaluate-division](https://github.com/Utkarshs19/My_leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Utkarshs19/My_leetcode/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarshs19/My_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Utkarshs19/My_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/Utkarshs19/My_leetcode/tree/master/0436-find-right-interval) |
@@ -994,6 +995,7 @@ all the leetcode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Utkarshs19/My_leetcode/tree/master/0413-arithmetic-slices) |
 | [0472-concatenated-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Utkarshs19/My_leetcode/tree/master/0474-ones-and-zeroes) |
@@ -1425,6 +1427,7 @@ all the leetcode questions
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Utkarshs19/My_leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarshs19/My_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Utkarshs19/My_leetcode/tree/master/0904-fruit-into-baskets) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
