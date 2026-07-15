@@ -193,6 +193,7 @@ all the leetcode questions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Utkarshs19/My_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3205-maximum-array-hopping-score-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
@@ -902,6 +903,7 @@ all the leetcode questions
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Utkarshs19/My_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2264,6 +2266,7 @@ all the leetcode questions
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Utkarshs19/My_leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2023-design-movie-rental-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3607-power-grid-maintenance](https://github.com/Utkarshs19/My_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3678-design-task-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/3678-design-task-manager) |
@@ -2594,6 +2597,7 @@ all the leetcode questions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Utkarshs19/My_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
