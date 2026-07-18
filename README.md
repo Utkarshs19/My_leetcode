@@ -58,6 +58,7 @@ all the leetcode questions
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -778,6 +779,7 @@ all the leetcode questions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Utkarshs19/My_leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1975-maximum-matrix-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1980-find-unique-binary-string) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1983-maximum-population-year](https://github.com/Utkarshs19/My_leetcode/tree/master/1983-maximum-population-year) |
@@ -2180,6 +2182,7 @@ all the leetcode questions
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Utkarshs19/My_leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Utkarshs19/My_leetcode/tree/master/2748-number-of-beautiful-pairs) |
