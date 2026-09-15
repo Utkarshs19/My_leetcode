@@ -180,6 +180,7 @@ all the leetcode questions
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -388,6 +389,7 @@ all the leetcode questions
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Utkarshs19/My_leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Utkarshs19/My_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-most-popular-video-creator](https://github.com/Utkarshs19/My_leetcode/tree/master/2456-most-popular-video-creator) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Utkarshs19/My_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1056,6 +1058,7 @@ all the leetcode questions
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2420-find-all-good-indices](https://github.com/Utkarshs19/My_leetcode/tree/master/2420-find-all-good-indices) |
 | [2463-minimum-total-distance-traveled](https://github.com/Utkarshs19/My_leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -1563,6 +1566,7 @@ all the leetcode questions
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Utkarshs19/My_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Utkarshs19/My_leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
