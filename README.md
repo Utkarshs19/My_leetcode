@@ -718,6 +718,7 @@ all the leetcode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarshs19/My_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Utkarshs19/My_leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
@@ -1040,6 +1041,7 @@ all the leetcode questions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Utkarshs19/My_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1259,6 +1261,7 @@ all the leetcode questions
 | [1436-destination-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1436-destination-city) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Utkarshs19/My_leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1454,6 +1457,7 @@ all the leetcode questions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Utkarshs19/My_leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1695-maximum-erasure-value) |
@@ -1612,6 +1616,7 @@ all the leetcode questions
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Utkarshs19/My_leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/Utkarshs19/My_leetcode/tree/master/1397-search-suggestions-system) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarshs19/My_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Utkarshs19/My_leetcode/tree/master/1631-path-with-minimum-effort) |
