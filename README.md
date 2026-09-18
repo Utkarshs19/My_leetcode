@@ -145,6 +145,7 @@ all the leetcode questions
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Utkarshs19/My_leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -333,6 +334,7 @@ all the leetcode questions
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1507-reformat-date](https://github.com/Utkarshs19/My_leetcode/tree/master/1507-reformat-date) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1532-reformat-the-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1532-reformat-the-string) |
@@ -1265,6 +1267,7 @@ all the leetcode questions
 | [1487-making-file-names-unique](https://github.com/Utkarshs19/My_leetcode/tree/master/1487-making-file-names-unique) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Utkarshs19/My_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Utkarshs19/My_leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -1769,6 +1772,7 @@ all the leetcode questions
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Utkarshs19/My_leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Utkarshs19/My_leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Utkarshs19/My_leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Utkarshs19/My_leetcode/tree/master/1657-determine-if-two-strings-are-close) |
