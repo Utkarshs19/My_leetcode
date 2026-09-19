@@ -45,6 +45,7 @@ all the leetcode questions
 | [1289-day-of-the-week](https://github.com/Utkarshs19/My_leetcode/tree/master/1289-day-of-the-week) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Utkarshs19/My_leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1427-perform-string-shifts](https://github.com/Utkarshs19/My_leetcode/tree/master/1427-perform-string-shifts) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -2327,6 +2328,7 @@ all the leetcode questions
 | [0830-largest-triangle-area](https://github.com/Utkarshs19/My_leetcode/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Utkarshs19/My_leetcode/tree/master/0836-rectangle-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Utkarshs19/My_leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshs19/My_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Doubly-Linked List
