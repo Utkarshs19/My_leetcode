@@ -21,7 +21,7 @@ public:
             {
                 ans[j]+=cur[j];
             }
-            prev=std::move(cur);
+            prev=cur;
         }
 
         return ans;
