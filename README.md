@@ -95,6 +95,7 @@ all the leetcode questions
 | [3336-water-bottles-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3336-water-bottles-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Utkarshs19/My_leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3524-find-x-value-of-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Utkarshs19/My_leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -948,6 +949,7 @@ all the leetcode questions
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Utkarshs19/My_leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3524-find-x-value-of-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/Utkarshs19/My_leetcode/tree/master/3541-report-spam-message) |
@@ -1085,6 +1087,7 @@ all the leetcode questions
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Utkarshs19/My_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
