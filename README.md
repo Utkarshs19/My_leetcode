@@ -304,6 +304,7 @@ all the leetcode questions
 | [1078-occurrences-after-bigram](https://github.com/Utkarshs19/My_leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
@@ -479,6 +480,7 @@ all the leetcode questions
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Utkarshs19/My_leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -1244,6 +1246,7 @@ all the leetcode questions
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1146-snapshot-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1146-snapshot-array) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -1766,6 +1769,7 @@ all the leetcode questions
 | [1030-matrix-cells-in-distance-order](https://github.com/Utkarshs19/My_leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/Utkarshs19/My_leetcode/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1169-largest-values-from-labels](https://github.com/Utkarshs19/My_leetcode/tree/master/1169-largest-values-from-labels) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/Utkarshs19/My_leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -2397,6 +2401,7 @@ all the leetcode questions
 | [0993-cousins-in-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Utkarshs19/My_leetcode/tree/master/0994-rotting-oranges) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Utkarshs19/My_leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Utkarshs19/My_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/Utkarshs19/My_leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -2549,6 +2554,7 @@ all the leetcode questions
 | [0949-largest-time-for-given-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Utkarshs19/My_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1079-letter-tile-possibilities](https://github.com/Utkarshs19/My_leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1215-stepping-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/1215-stepping-numbers) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
