@@ -358,6 +358,7 @@ all the leetcode questions
 | [1751-slowest-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1751-slowest-key) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Utkarshs19/My_leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Utkarshs19/My_leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1871-jump-game-vii](https://github.com/Utkarshs19/My_leetcode/tree/master/1871-jump-game-vii) |
@@ -768,6 +769,7 @@ all the leetcode questions
 | [1774-closest-dessert-cost](https://github.com/Utkarshs19/My_leetcode/tree/master/1774-closest-dessert-cost) |
 | [1788-stone-game-vi](https://github.com/Utkarshs19/My_leetcode/tree/master/1788-stone-game-vi) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Utkarshs19/My_leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-single-threaded-cpu) |
@@ -1296,6 +1298,7 @@ all the leetcode questions
 | [1726-tuple-with-same-product](https://github.com/Utkarshs19/My_leetcode/tree/master/1726-tuple-with-same-product) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1797-design-authentication-manager](https://github.com/Utkarshs19/My_leetcode/tree/master/1797-design-authentication-manager) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Utkarshs19/My_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
