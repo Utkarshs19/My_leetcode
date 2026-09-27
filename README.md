@@ -308,6 +308,7 @@ all the leetcode questions
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/Utkarshs19/My_leetcode/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Utkarshs19/My_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1238-alphabet-board-path](https://github.com/Utkarshs19/My_leetcode/tree/master/1238-alphabet-board-path) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -483,6 +484,7 @@ all the leetcode questions
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Utkarshs19/My_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -2712,4 +2714,8 @@ all the leetcode questions
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Utkarshs19/My_leetcode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
