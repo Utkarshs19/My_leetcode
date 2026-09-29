@@ -835,6 +835,7 @@ all the leetcode questions
 | [2227-sum-of-subarray-ranges](https://github.com/Utkarshs19/My_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Utkarshs19/My_leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Utkarshs19/My_leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -1075,6 +1076,7 @@ all the leetcode questions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Utkarshs19/My_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/Utkarshs19/My_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2420-find-all-good-indices](https://github.com/Utkarshs19/My_leetcode/tree/master/2420-find-all-good-indices) |
@@ -1150,6 +1152,7 @@ all the leetcode questions
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/Utkarshs19/My_leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Utkarshs19/My_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/Utkarshs19/My_leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -2718,4 +2721,5 @@ all the leetcode questions
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
