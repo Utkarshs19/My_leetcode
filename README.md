@@ -223,6 +223,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
@@ -468,6 +469,7 @@ all the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshs19/My_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -2722,6 +2724,7 @@ all the leetcode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
