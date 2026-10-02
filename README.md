@@ -224,6 +224,7 @@ all the leetcode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Utkarshs19/My_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Utkarshs19/My_leetcode/tree/master/0067-add-binary) |
@@ -1019,6 +1020,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utkarshs19/My_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Utkarshs19/My_leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Utkarshs19/My_leetcode/tree/master/0091-decode-ways) |
@@ -2553,6 +2555,7 @@ all the leetcode questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Utkarshs19/My_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
@@ -2725,6 +2728,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
