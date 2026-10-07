@@ -245,6 +245,7 @@ all the leetcode questions
 | [0267-palindrome-permutation-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Utkarshs19/My_leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Utkarshs19/My_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Utkarshs19/My_leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -2383,6 +2384,7 @@ all the leetcode questions
 | [0127-word-ladder](https://github.com/Utkarshs19/My_leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Utkarshs19/My_leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Utkarshs19/My_leetcode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Utkarshs19/My_leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -2564,6 +2566,7 @@ all the leetcode questions
 | [0093-restore-ip-addresses](https://github.com/Utkarshs19/My_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0267-palindrome-permutation-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0282-expression-add-operators](https://github.com/Utkarshs19/My_leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Utkarshs19/My_leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Utkarshs19/My_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/0494-target-sum) |
