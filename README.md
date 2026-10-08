@@ -302,6 +302,7 @@ all the leetcode questions
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Utkarshs19/My_leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-vowel-spellchecker](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Utkarshs19/My_leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1021-remove-outermost-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1048-longest-string-chain](https://github.com/Utkarshs19/My_leetcode/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -489,6 +490,7 @@ all the leetcode questions
 | [0962-maximum-width-ramp](https://github.com/Utkarshs19/My_leetcode/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Utkarshs19/My_leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/Utkarshs19/My_leetcode/tree/master/1006-clumsy-factorial) |
+| [1021-remove-outermost-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Utkarshs19/My_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -2737,6 +2739,7 @@ all the leetcode questions
 | [0022-generate-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshs19/My_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utkarshs19/My_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshs19/My_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Utkarshs19/My_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
