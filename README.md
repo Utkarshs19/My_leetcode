@@ -183,6 +183,7 @@ all the leetcode questions
 | [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Utkarshs19/My_leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Utkarshs19/My_leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
@@ -860,6 +861,7 @@ all the leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-minimum-average-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Utkarshs19/My_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1552,6 +1554,7 @@ all the leetcode questions
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Utkarshs19/My_leetcode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2161-stock-price-fluctuation](https://github.com/Utkarshs19/My_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1668,6 +1671,7 @@ all the leetcode questions
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Utkarshs19/My_leetcode/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/Utkarshs19/My_leetcode/tree/master/2560-house-robber-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Utkarshs19/My_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1831,6 +1835,7 @@ all the leetcode questions
 | [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Utkarshs19/My_leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Utkarshs19/My_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Utkarshs19/My_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
