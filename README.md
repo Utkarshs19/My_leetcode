@@ -216,6 +216,7 @@ all the leetcode questions
 | [3528-reach-end-of-array-with-max-score](https://github.com/Utkarshs19/My_leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Utkarshs19/My_leetcode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1008,6 +1009,7 @@ all the leetcode questions
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3707-find-the-most-common-response](https://github.com/Utkarshs19/My_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Utkarshs19/My_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1867,6 +1869,7 @@ all the leetcode questions
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Utkarshs19/My_leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/Utkarshs19/My_leetcode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarshs19/My_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Utkarshs19/My_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Utkarshs19/My_leetcode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
