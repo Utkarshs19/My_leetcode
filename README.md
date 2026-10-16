@@ -913,6 +913,7 @@ all the leetcode questions
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/Utkarshs19/My_leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2861-maximum-number-of-alloys](https://github.com/Utkarshs19/My_leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Utkarshs19/My_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1372,6 +1373,7 @@ all the leetcode questions
 | [2838-sum-of-matrix-after-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/Utkarshs19/My_leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2933-high-access-employees](https://github.com/Utkarshs19/My_leetcode/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Utkarshs19/My_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2950-number-of-divisible-substrings](https://github.com/Utkarshs19/My_leetcode/tree/master/2950-number-of-divisible-substrings) |
@@ -2708,6 +2710,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Utkarshs19/My_leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2733,6 +2736,7 @@ all the leetcode questions
 |  |
 | ------- |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Iterator
