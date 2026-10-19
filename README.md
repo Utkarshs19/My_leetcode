@@ -831,6 +831,7 @@ all the leetcode questions
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utkarshs19/My_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Utkarshs19/My_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1673,6 +1674,7 @@ all the leetcode questions
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Utkarshs19/My_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/Utkarshs19/My_leetcode/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Utkarshs19/My_leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Utkarshs19/My_leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Utkarshs19/My_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1829,6 +1831,7 @@ all the leetcode questions
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Utkarshs19/My_leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Utkarshs19/My_leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Utkarshs19/My_leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/Utkarshs19/My_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Utkarshs19/My_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
