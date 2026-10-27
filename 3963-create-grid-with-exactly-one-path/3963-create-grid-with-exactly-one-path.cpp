@@ -7,7 +7,7 @@ public:
         for(int i=0;i<m;i++)
         {
             
-            if(i==m-1)
+            if(i==0)
             {
                 string str(n,'.');
                 ans.push_back(str);
@@ -15,7 +15,7 @@ public:
             else
             {
                 string str(n,'#');
-                str[0]='.';
+                str[n-1]='.';
                 ans.push_back(str);
             }
         }
