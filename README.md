@@ -1028,6 +1028,7 @@ all the leetcode questions
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Utkarshs19/My_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Utkarshs19/My_leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3860-unique-email-groups](https://github.com/Utkarshs19/My_leetcode/tree/master/3860-unique-email-groups) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Utkarshs19/My_leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Utkarshs19/My_leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Utkarshs19/My_leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -1121,6 +1122,7 @@ all the leetcode questions
 | [3524-find-x-value-of-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -1202,6 +1204,7 @@ all the leetcode questions
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Utkarshs19/My_leetcode/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -2207,6 +2210,7 @@ all the leetcode questions
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Utkarshs19/My_leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Utkarshs19/My_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Utkarshs19/My_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
