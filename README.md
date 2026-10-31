@@ -1003,6 +1003,7 @@ all the leetcode questions
 | [3644-minimum-positive-sum-subarray](https://github.com/Utkarshs19/My_leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Utkarshs19/My_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Utkarshs19/My_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Utkarshs19/My_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/Utkarshs19/My_leetcode/tree/master/3682-minimum-index-sum-of-common-elements) |
@@ -1120,6 +1121,7 @@ all the leetcode questions
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Utkarshs19/My_leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Utkarshs19/My_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Utkarshs19/My_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -1196,6 +1198,7 @@ all the leetcode questions
 | [3548-equal-sum-grid-partition-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Utkarshs19/My_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Utkarshs19/My_leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/Utkarshs19/My_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Utkarshs19/My_leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Utkarshs19/My_leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Utkarshs19/My_leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
