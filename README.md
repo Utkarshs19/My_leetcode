@@ -398,6 +398,7 @@ all the leetcode questions
 | [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Utkarshs19/My_leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2235-capitalize-the-title](https://github.com/Utkarshs19/My_leetcode/tree/master/2235-capitalize-the-title) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Utkarshs19/My_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2266-count-number-of-texts](https://github.com/Utkarshs19/My_leetcode/tree/master/2266-count-number-of-texts) |
 | [2268-minimum-number-of-keypresses](https://github.com/Utkarshs19/My_leetcode/tree/master/2268-minimum-number-of-keypresses) |
@@ -547,6 +548,7 @@ all the leetcode questions
 | [2169-simple-bank-system](https://github.com/Utkarshs19/My_leetcode/tree/master/2169-simple-bank-system) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Utkarshs19/My_leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/Utkarshs19/My_leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Utkarshs19/My_leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/2390-removing-stars-from-a-string) |
