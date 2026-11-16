@@ -51,6 +51,7 @@ all the leetcode questions
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Utkarshs19/My_leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Utkarshs19/My_leetcode/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Utkarshs19/My_leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utkarshs19/My_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Utkarshs19/My_leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Utkarshs19/My_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -756,6 +757,7 @@ all the leetcode questions
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1524-string-matching-in-an-array](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/Utkarshs19/My_leetcode/tree/master/1534-count-good-triplets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Utkarshs19/My_leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarshs19/My_leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1085,6 +1087,7 @@ all the leetcode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshs19/My_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Utkarshs19/My_leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Utkarshs19/My_leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Utkarshs19/My_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1751,6 +1754,7 @@ all the leetcode questions
 | [1314-matrix-block-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1314-matrix-block-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Utkarshs19/My_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshs19/My_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Utkarshs19/My_leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utkarshs19/My_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Utkarshs19/My_leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
